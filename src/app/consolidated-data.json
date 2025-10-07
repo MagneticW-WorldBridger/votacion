@@ -1,0 +1,1177 @@
+{
+  "Cancún": {
+    "playas_recomendadas": [
+      {
+        "nombre": "Playa Delfines",
+        "descripcion": "Amplia playa pública de arena blanca y aguas azul turquesa; famosa por el letrero de 'Cancún' y su mirador panorámico [oai_citation:0‡interactiveaquariumcancun.com](https://www.interactiveaquariumcancun.com/es/mejores-playas-publicas-de-cancun#:~:text=Playa%20Delfines%20es%20una%20de,y%20disfrutar%20del%20paisaje%20caribe%C3%B1o). Es imperdible por sus vistas al Caribe y ambiente relajado, ideal para descansar y tomar fotos.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 2,
+          "atletico": 0
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Playa Tortugas",
+        "descripcion": "Playa animada de oleaje tranquilo, popular por sus deportes acuáticos y ambiente familiar. Sus aguas calmadas la hacen segura para niños, y cuenta con restaurantes, bares y un muelle de ferry hacia Isla Mujeres.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Playa Coral (Playa Mirador II)",
+        "descripcion": "Ubicada al extremo sur de la Zona Hotelera, es una playa más aislada y la única pet-friendly de Cancún. Tiene poca profundidad y cerca de Punta Nizuc alberga parte del arrecife, lo que permite snorkelear desde la orilla entre peces tropicales.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ],
+    "experiencias_snorkel_buceo": [
+      {
+        "nombre": "Museo Subacuático de Arte (MUSA)",
+        "descripcion": "Un museo submarino con más de 500 esculturas sumergidas entre Cancún e Isla Mujeres. Es accesible mediante tours de snorkel o buceo, y las esculturas cubiertas de coral albergan abundante vida marina, ofreciendo una experiencia única que combina arte y naturaleza.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 1,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Arrecifes de Punta Nizuc",
+        "descripcion": "Parte del Gran Arrecife Mesoamericano (la segunda barrera coralina más grande del mundo) que inicia en Cancún. Se puede acceder en tours en lancha o catamarán; sus aguas poco profundas y corrientes suaves permiten a snorkelistas observar corales, mantarrayas, peces loro y otras especies en su hábitat natural.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ],
+    "tours_y_excursiones": [
+      {
+        "nombre": "Chichén Itzá y Cenote Ik Kil",
+        "descripcion": "Excursión de día completo a la antigua ciudad maya de Chichén Itzá, declarada Maravilla del Mundo. Se recorre la Pirámide de Kukulkán, el Juego de Pelota y el Observatorio, con guía que explica la historia maya. Muchos tours incluyen una parada para nadar en el cenote Ik Kil o otro cenote cercano, y almuerzo yucateco, ofreciendo un balance entre cultura y aventura acuática.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 0,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Isla Mujeres (Día de Playa y Snorkel)",
+        "descripcion": "Travesía en ferry o catamarán a Isla Mujeres, ubicada a 20 minutos de Cancún. Incluye snorkel en el arrecife de Manchones o en el MUSA, tiempo libre en Playa Norte –famosa por su arena blanca y aguas turquesas poco profundas– y recorrido por el pintoresco centro en carrito de golf. Es una excursión popular por combinar relajación y actividades acuáticas.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Isla Contoy (Reserva Natural)",
+        "descripcion": "Tour ecológico a una isla virgen y parque nacional al norte de Cancún, con acceso restringido a 200 visitantes diarios [oai_citation:1‡infobae.com](https://www.infobae.com/mexico/2025/07/21/la-pequena-isla-de-mexico-que-se-encuentra-a-kilometros-de-cancun-donde-puedes-vacacionar-rodeado-de-aves-y-tortugas/#:~:text=El%20acceso%20est%C3%A1%20rigurosamente%20controlado%2C,quienes%20deben%20arribar%20mediante). Incluye viaje en barco (a veces combinado con parada en Isla Mujeres), snorkel en arrecifes prístinos y visita guiada por la isla para avistar aves (fragatas, pelícanos) y otras especies. La isla carece de infraestructura turística, lo que la hace ideal para amantes de la naturaleza que buscan playas intactas y vida silvestre.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Jungle Tour en Laguna Nichupté",
+        "descripcion": "Aventura guiada en la que conduces una lancha rápida a través de los manglares de la Laguna Nichupté. El recorrido combina la emoción de la velocidad con la observación de la fauna local (aves, crustáceos, reptiles) en los canales del manglar. Usualmente el tour hace una parada para hacer snorkel en el arrecife Punta Nizuc, añadiendo un componente submarino a la experiencia.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 1,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ],
+    "cultura_y_museos": [
+      {
+        "nombre": "Museo Maya de Cancún",
+        "tipo": "Museo arqueológico",
+        "ubicacion": "Zona Hotelera (km 16.5)",
+        "descripcion": "Exhibe una de las colecciones más importantes de piezas mayas en México, incluyendo artefactos de sitios de Quintana Roo y alrededores. Cuenta con salas permanentes dedicadas a la cultura Maya y la historia local, y una sala de exposiciones temporales. La entrada al museo permite recorrer la zona arqueológica San Miguelito, un pequeño sitio maya con senderos selváticos contiguo al museo.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Zona Arqueológica El Rey",
+        "tipo": "Sitio histórico maya",
+        "ubicacion": "Zona Hotelera (km 18)",
+        "descripcion": "Ruinas mayas de un antiguo asentamiento costero. Se pueden observar estructuras bajas, plataformas y templos menores que formaban parte de esta ciudad tardía. Es un sitio tranquilo poblado por iguanas, que ofrece una breve inmersión en la historia maya sin alejarse de la ciudad.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Parque de las Palapas",
+        "tipo": "Plaza cultural local",
+        "ubicacion": "Centro de Cancún",
+        "descripcion": "Espacio público que funciona como corazón cultural de la ciudad, con un kiosco central y zona de comidas callejeras. Por las tardes-noches frecuentemente hay eventos como bailes folklóricos, música en vivo o proyecciones, mientras familias disfrutan antojitos (marquesitas, elotes) de puestos tradicionales. Es ideal para convivir con locales y empaparse del ambiente auténtico de Cancún.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ],
+    "actividades_para_todas_las_edades": [
+      {
+        "nombre": "Xoximilco Cancún",
+        "descripcion": "Fiesta nocturna en la que se navega por canales en coloridas trajineras, al estilo de Xochimilco. Incluye cena de degustación de platillos típicos, barra libre y música en vivo de mariachi, marimba y banda. Es apto para familias (niños mayores disfrutan la música) y adultos de todas las edades que quieran disfrutar cultura y diversión mexicana.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Captain Hook (Barco Pirata)",
+        "descripcion": "Cena-espectáculo a bordo de un galeón pirata replicado. Los 'piratas' entretienen con acrobacias, concursos y humor apto para todas las edades mientras se disfruta de una cena (a elección, con opción de langosta). Culmina con un combate simulado entre barcos pirata en altamar. Es un plan familiar en el que niños, jóvenes y adultos se divierten con la temática.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Acuario Interactivo Cancún",
+        "descripcion": "Ubicado en la Plaza La Isla, es un acuario ideal para ir con niños. Alberga especies marinas regionales como mantarrayas, medusas, tiburones y tortugas. Ofrece experiencias como tocar estrellas de mar y rayas, alimentar tortugas y un show educativo con delfines. Es de fácil acceso (elevadores para carriolas) y una actividad educativa y amena para días de mucho sol o lluvia.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Ventura Park",
+        "descripcion": "Parque de diversiones y acuático ubicado al sur de la Zona Hotelera. Tiene secciones para diferentes gustos: toboganes y albercas con olas, tirolesas, una pequeña montaña rusa, go-karts y juegos de realidad virtual. Cuenta con área infantil (chapoteaderos y juegos seguros para pequeños) y atracciones de adrenalina para adolescentes, así como zonas de descanso para adultos. Un lugar donde tanto niños como jóvenes y padres encuentran entretenimiento.",
+        "intensidad": {
+          "fisica": 4,
+          "vertigo": 3,
+          "atletico": 3
+        },
+        "accesibilidad": "baja",
+        "links": []
+      },
+      {
+        "nombre": "Vida Nocturna en Coco Bongo",
+        "descripcion": "Para los jóvenes (y adultos) amantes de la fiesta, Coco Bongo es un club nocturno emblemático en Cancún. Ofrece un espectáculo estilo Las Vegas con acróbatas, tributos musicales y efectos especiales mientras se baila toda la noche. Aunque es un ambiente exclusivamente para adultos, merece mención por ser una de las atracciones más famosas para vivir la vibrante noche de Cancún.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ],
+    "gastronomía_local": {
+      "platillos_típicos": [
+        {
+          "nombre": "Cochinita pibil",
+          "descripcion": "Carne de cerdo marinada en achiote y jugo de naranja agria, envuelta en hoja de plátano y cocinada lentamente en un horno subterráneo (píib). Se sirve deshebrada en tacos o tortas, con cebolla morada encurtida y chile habanero. Es un plato insignia de la cocina yucateca, ampliamente disfrutado en Quintana Roo.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Pescado a la Tikin-Xic",
+          "descripcion": "Receta tradicional maya donde un pescado entero (usualmente huachinango) se marinaa con achiote, se envuelve en hojas de plátano y se cocina a las brasas. Originario de la zona costera de Quintana Roo, combina el sabor ahumado con el toque cítrico del achiote. Se sirve con tortillas y salsa de habanero, ideal para compartir en la playa.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Panuchos y Salbutes",
+          "descripcion": "Antojitos yucatecos: ambos son tortillas de maíz fritas, pero el panucho se rellena de frijol refrito antes de freír. Se sirven cubiertos de pollo deshebrado (o cochinita), lechuga, tomate, aguacate y cebolla curtida. Son una comida callejera popular en la región, perfectos para probar en mercados locales o puestos ambulantes.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Ceviche de caracol",
+          "descripcion": "Plato caribeño típico de las costas de Quintana Roo. Consiste en carne de caracol (molusco marino) picada y 'cocida' en jugo de limón, mezclada con jitomate, cebolla morada, cilantro y chile habanero picado. El resultado es un ceviche fresco y picante, apreciado especialmente en Cozumel e Isla Mujeres.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Marquesitas",
+          "descripcion": "Postre callejero originario de Yucatán. Es una crepa delgada que se cocina hasta quedar crujiente como barquillo y se rellena tradicionalmente con queso de bola (Edam) rallado y alguna mermelada, cajeta o Nutella. La combinación de queso salado con dulce la hace un imperdible para las noches, fácilmente encontrado en carritos en plazas y la Quinta Avenida.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        }
+      ],
+      "restaurantes_recomendados": [
+        {
+          "nombre": "La Habichuela (Cancún)",
+          "especialidad": "Cocina yucateca y caribeña",
+          "descripcion": "Restaurante emblemático en el centro de Cancún, famoso por su jardín ambientado con esculturas mayas. Sirve platillos regionales como el pescado Tikin-Xic y la crema de chaya, así como su creación 'Cocobichuela' (mariscos al curry servidos en coco). Ideal para una cena relajada probando sabores locales con un toque gourmet.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "El Pocito (Cancún)",
+          "especialidad": "Comida casera yucateca",
+          "descripcion": "Pequeña lonchería local conocida por su cochinita pibil tradicional, escabeche oriental y otros guisos yucatecos auténticos. Es modesta y económica, frecuentada por cancunenses que buscan el sazón casero. Perfecto para desayunar o almorzar panuchos, relleno negro o lechón al estilo Yucatán.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Parque de las Palapas (Cancún)",
+          "especialidad": "Puestos callejeros variados",
+          "descripcion": "Más que un restaurante, es la zona por excelencia para probar antojitos locales en Cancún. En este parque encontrarás kioscos que venden desde elotes y esquites, hasta marquesitas, empanadas, tamales y tacos al pastor. Por las noches, es un punto de reunión de familias donde se puede cenar barato y sabroso al aire libre.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "La Choza (Cozumel)",
+          "especialidad": "Cocina regional y mariscos",
+          "descripcion": "Restaurante familiar cerca del centro de Cozumel, con techos de palapa. Su menú ofrece desde sopa de lima y papadzules hasta mariscos frescos. Recomendado probar el filete de pescado al coco o los tacos de camarón. Ambiente acogedor y auténtico, atendido por locales.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "El Moro (Cozumel)",
+          "especialidad": "Comida típica yucateca",
+          "descripcion": "Un \"secreto\" local ubicado en un barrio alejado del circuito turístico. Famoso por sus abundantes desayunos y platillos caseros como frijol con puerco, enchiladas de mole y cochinita. Los dueños suelen atender personalmente. Porciones generosas, precios justos y sabor tradicional garantizado.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 2
+          },
+          "accesibilidad": "media",
+          "links": []
+        },
+        {
+          "nombre": "El Fogón (Playa del Carmen)",
+          "especialidad": "Tacos y parrillada mexicana",
+          "descripcion": "Taquería muy popular entre locales y viajeros, famosa por sus trompos de pastor a la vista. Ofrece tacos, alambres y costillas a la parrilla con auténtico sazón. No te pierdas los tacos al pastor con piña y las arracheras. Hay varias sucursales en Playa; suele haber fila pero el servicio es rápido y vale la pena para cenar económico.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "La Cueva del Chango (Playa del Carmen)",
+          "especialidad": "Cocina mexicana contemporánea",
+          "descripcion": "Restaurante pintoresco en la zona de la Calle 38, con entorno selvático (fuentes, árboles y hasta un cenote pequeño decorativo). Ideal para desayunos y almuerzos relajados. Sirve jugos naturales, huevos motuleños, chilaquiles, mariscos frescos y platillos mexicanos con toque creativo. Muy concurrido por su atmósfera única y sabores frescos.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 1,
+            "atletico": 0
+          },
+          "accesibilidad": "media",
+          "links": []
+        },
+        {
+          "nombre": "La Perla Pixan Cuisine & Mezcal (Playa del Carmen)",
+          "especialidad": "Cocina maya contemporánea y mezcalería",
+          "descripcion": "Restaurante-bar que combina gastronomía tradicional maya con presentaciones modernas. Ofrece platos como relleno negro, ceviche de pescado con salsa de chaya y platillos con venado o jabalí, acompañados de una extensa carta de mezcales artesanales. Por las noches suele haber música en vivo (trova, son jarocho o marimba) creando un ambiente cultural perfecto para adultos.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        }
+      ]
+    },
+    "isla_mujeres": [
+      {
+        "nombre": "Playa Norte - Isla Mujeres",
+        "descripcion": "Considerada una de las mejores playas del mundo, con aguas cristalinas poco profundas y arena blanca. Perfecta para familias y relajación. A solo 20 minutos en ferry desde Cancún.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 1,
+          "atletico": 0
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Punta Sur - Isla Mujeres",
+        "descripcion": "Extremo sur de la isla con acantilados dramáticos, escultura monumental 'Ixchel', y vistas panorámicas del Caribe. Incluye ruinas del templo maya dedicado a la diosa Ixchel.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 2,
+          "atletico": 0
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Snorkel con Tiburón Ballena (temporada)",
+        "descripcion": "De junio a septiembre, nada junto al pez más grande del mundo en aguas cercanas a Isla Mujeres. Experiencia única y segura con guías certificados.",
+        "intensidad": {
+          "fisica": 4,
+          "vertigo": 0,
+          "atletico": 3
+        },
+        "accesibilidad": "baja",
+        "links": []
+      }
+    ]
+  },
+  "Cozumel": {
+    "playas_recomendadas": [
+      {
+        "nombre": "Playa Palancar",
+        "descripcion": "Hermosa playa al suroeste de la isla, con arena clara y aguas muy tranquilas de tonos turquesa. Ofrece un club de playa con servicios básicos, y desde la orilla es posible hacer snorkel para ver peces de colores. Es imperdible por su atmósfera serena y vistas a la costa continental.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Playa Chen Río",
+        "descripcion": "Ubicada en la costa oriental (mar abierto) de Cozumel, es una playa popular entre locales. Posee formaciones rocosas que crean albercas naturales poco profundas donde es seguro nadar pese al fuerte oleaje del exterior. Ideal para relajarse, hacer picnic y disfrutar mariscos en las palapas cercanas, experimentando una faceta más tranquila y local de la isla.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Punta Sur (Playa El Cielo)",
+        "descripcion": "Dentro de la reserva ecológica Punta Sur se encuentran largas playas vírgenes de arena blanca y la zona conocida como 'El Cielo' por la cantidad de estrellas de mar en sus aguas poco profundas. Estas playas casi desiertas ofrecen un contacto directo con la naturaleza. Son imperdibles por su belleza prístina; se recomienda llevar equipo de snorkel para admirar estrellas marinas (sin sacarlas del agua) y tortugas en temporada.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ],
+    "experiencias_snorkel_buceo": [
+      {
+        "nombre": "Arrecifes de Palancar y Columbia",
+        "descripcion": "Parte del Parque Nacional Arrecifes de Cozumel, famosos a nivel mundial por su visibilidad excepcional (más de 30 m) y vibrante vida marina. Se accede en bote en tours guiados de snorkel o buceo. En Palancar (arrecife poco profundo) se admiran formaciones coralinas y peces tropicales, mientras Columbia (más profundo) deslumbra con paredes de coral, rayas águila y tortugas marinas. Son sitios obligatorios para amantes del mundo subacuático en Cozumel.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 1,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "El Cielo (zona de snorkel)",
+        "descripcion": "Banco de arena y corales al suroeste de Cozumel, de apenas 3 m de profundidad, conocido por las numerosas estrellas de mar que alfombran el fondo cristalino. Solo accesible por lancha, es un punto de snorkel poco profundo apto para toda la familia. Además de estrellas de mar, suelen avistarse rayas y peces tropicales en aguas increíblemente transparentes, lo que hace honor a su nombre 'El Cielo'. *Nota: Se regula el acceso para proteger el ecosistema, es importante no tocar las estrellas de mar.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Buceo en barco hundido Felipe Xicotencatl (C-53)",
+        "descripcion": "Experiencia de buceo (para buzos certificados) en un barco dragaminas de la Armada hundido a propósito en 2000 cerca de Chankanaab. Reposa a ~20 m de profundidad, con múltiples aperturas para exploración segura del interior. El naufragio se ha convertido en arrecife artificial, hogar de coral blando, esponjas, meros y cardúmenes de jureles. Es una de las inmersiones favoritas en Cozumel por la combinación de historia naval y biodiversidad marina.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 1,
+          "atletico": 3
+        },
+        "accesibilidad": "baja",
+        "links": []
+      }
+    ],
+    "tours_y_excursiones": [
+      {
+        "nombre": "Parque Eco Arqueológico Punta Sur",
+        "descripcion": "Excursión a la reserva natural más grande de Cozumel. Incluye recorrido por playas vírgenes, visita al faro Celarain (panorama espectacular desde lo alto), museo de navegación, senderos para observar cocodrilos en la Laguna Colombia (paseo en lancha) y vestigios mayas como el templo de El Caracol. Es un tour ideal para apreciar la flora y fauna isleña (aves, tortugas) y disfrutar de playas remotas en un solo día.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 2,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Ruinas Mayas de San Gervasio",
+        "descripcion": "Visita al principal sitio arqueológico de Cozumel, un antiguo centro de peregrinación dedicado a la diosa Ixchel. Un guía local en el parque explica la importancia de los distintos edificios (templos, arcos y sacbés o caminos blancos). Rodeado de selva, es un recorrido cultural de medio día que conecta con la herencia maya de la isla. Se suele complementar con una parada para comprar artesanías o probar chocolate maya en las cercanías.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Chankanaab Beach Adventure Park",
+        "descripcion": "Parque de playa y naturaleza ubicado dentro del Parque Nacional Marino. La entrada permite disfrutar la laguna Chankanaab, un jardín botánico y réplicas mayas, show de lobos marinos, y acceso a playa con arrecife donde se puede snorkelear cerca de la orilla entre peces multicolores y estatuas submarinas. Ofrece además actividades opcionales (costo extra) como nado con delfines, snuba, seatrek y buceo introductorio. Es la atracción #1 de Cozumel por su variedad de experiencias en un solo lugar.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 1,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Tour en Submarino Atlantis",
+        "descripcion": "Una aventura única para todas las edades: se aborda un submarino turístico que desciende hasta ~30 metros de profundidad en la costa oeste de Cozumel. A través de sus ventanillas se observan arrecifes profundos, peces arrecifales, esponjas gigantes y, con suerte, tortugas o tiburones nodriza, todo sin mojarse. El submarino recorre parte del arrecife Chankanaab y es ideal para quienes no bucean pero desean explorar el mundo submarino en la comodidad de una cabina presurizada.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 1,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ],
+    "cultura_y_museos": [
+      {
+        "nombre": "Museo de la Isla de Cozumel",
+        "tipo": "Museo de historia y cultura",
+        "ubicacion": "Centro de Cozumel (Av. Rafael E. Melgar)",
+        "descripcion": "Reinaugurado tras una gran renovación, este museo interactivo cuenta con 11 salas que relatan de forma lúdica la historia natural y cultural de Cozumel. Exhibe la formación geológica de la isla, su biodiversidad marina y terrestre, la vida de los mayas cozumeleños y la época contemporánea. Incluye también salas temporales para arte local y una exhibición dedicada a la tradición del Carnaval en Cozumel. Ubicado en un edificio histórico (antiguo hotel de los años 30), es una parada enriquecedora para entender la identidad isleña.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "El Cedral (Festival Tradicional)",
+        "tipo": "Fiesta tradicional / Histórico",
+        "ubicacion": "Comunidad El Cedral (sur de Cozumel)",
+        "descripcion": "El Cedral es una pequeña localidad que alberga la capilla y ruinas del primer asentamiento poblado de la isla. Cada año (finales de abril y principios de mayo) se celebra aquí la Feria de El Cedral, una festividad con más de 150 años de antigüedad que combina eventos religiosos, música, bailes folclóricos, corridas de toros, comida típica y artesanías. Es una manifestación cultural viva donde visitantes pueden convivir con familias cozumeleñas en una atmósfera festiva y auténtica. Fuera de la fecha de fiesta, El Cedral ofrece un vistazo tranquilo a la vida rural de Cozumel y su pequeña ruina maya.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Mayan Cacao Company",
+        "tipo": "Museo vivo del cacao",
+        "ubicacion": "Carretera sur de Cozumel",
+        "descripcion": "Atracción temática que muestra el proceso tradicional de elaboración de chocolate a la usanza maya. Los visitantes recorren un sendero con estaciones donde se aprende sobre la planta de cacao, se ve a artesanos moler cacao a mano y preparar chocolate, y se degustan distintas variedades. Además, presenta aspectos de la cultura maya relacionados con el cacao (usos ceremoniales, moneda). Es educativo y sabroso, apto para toda la familia.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ],
+    "actividades_para_todas_las_edades": [
+      {
+        "nombre": "Mr. Sancho’s Beach Club",
+        "descripcion": "Club de playa familiar al sur de la isla con opción de pase de día todo incluido. Ofrece albercas, áreas de juegos, kayak, caballos, parque acuático inflable en el mar para niños, y camastros en la playa. Los adultos pueden relajarse con servicio de bar y masajes. Es una opción cómoda donde cada miembro de la familia encuentra algo que hacer, desde nadar en aguas tranquilas hasta simplemente descansar bajo una palapa.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Atlantis Submarine (Submarino turístico)",
+        "descripcion": "Una experiencia apta para niños, adultos y adultos mayores: embarcar en un submarino real para explorar el fondo del mar. Durante ~40 minutos, el submarino recorre arrecifes profundos mostrando coral, peces e incluso un barco hundido, todo narrado por un guía a bordo. Es seguro y cómodo, ideal para quienes no pueden bucear o snorkelear pero desean maravillarse con el mundo subacuático de Cozumel.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Tour de Jeep por la Isla",
+        "descripcion": "Actividad popular en la que se conduce (o va como pasajero) un Jeep o buggy a lo largo de la carretera perimetral de Cozumel. Suele incluir paradas en puntos panorámicos y sitios de interés: El Mirador (formación rocosa esculpida por el mar), Playa San Martín, una tequilera artesanal para degustación, San Gervasio (ruinas mayas) y finaliza en un club de playa para snorkel o comida. Es una forma divertida de recorrer toda la isla en un día y apta para grupos, aunque los niños deben ir acompañados por adultos en los vehículos.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 2,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Parque Chankanaab",
+        "descripcion": "Combina relax y actividades en un solo lugar (como se describió en 'Tours'). Para familias, cuenta con área de playa de poca profundidad, snorkel fácil desde la orilla, show de lobos marinos (que encanta a los niños) y juegos infantiles. Jóvenes y adultos pueden optar por buceo o snuba, o relajarse con un masaje en cabaña. Los senderos con réplicas mayas y el jardín botánico añaden un toque educativo para todas las edades. Por su variedad, Chankanaab es ideal cuando viajan juntos abuelos, padres y niños, ya que hay algo interesante para cada generación.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 1,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Cozumel Pearl Farm",
+        "descripcion": "Una joya oculta al norte de Cozumel: es una granja perlífera familiar a la que se llega en lancha (tour reservado). La experiencia incluye paseo en bote, explicación del cultivo de perlas en el mar Caribe, visita a las líneas de ostras perleras y demostración de cómo se obtienen las perlas. La playa remota en la granja es paradisíaca y solo accesible para los visitantes de esta excursión, con hamacas y snorkel en un arrecife virgen. Es una actividad tranquila, educativa y exclusiva, apta para familias (los niños disfrutan buscando conchas) y viajeros curiosos.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ],
+    "gastronomía_local": {
+      "platillos_típicos": [
+        {
+          "nombre": "Filete de pescado al coco",
+          "descripcion": "Especialidad isleña: filete de pescado empanizado con coco rallado, frito hasta dorar. Combina el sabor suave del pescado fresco (generalmente pargo o mero) con el toque dulce-crujiente del coco. Suele servirse con salsa tártara o mango y arroz. Es un imperdible en Cozumel para quienes aman los mariscos con giros locales.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Caracol en arroz amarillo",
+          "descripcion": "Guiso típico de Cozumel preparado con carne de caracol gigante (caracol de mar) picada, cocinada con arroz al azafrán o achiote, elote tierno y hojas de chaya (verdura local). Es un platillo sustancioso que refleja la mezcla de productos del mar con ingredientes mayas (la chaya) y españoles (el azafrán) en la gastronomía regional.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Papadzules",
+          "descripcion": "Platillo tradicional yucateco presente en la isla: tortillas de maíz rellenas de huevo duro picado, bañadas en una salsa de pepita de calabaza y epazote, y adornadas con salsa de tomate. Aunque originarios de Yucatán, se encuentran en fondas de Cozumel como muestra de la herencia culinaria peninsular. De sabor suave y textura cremosa, suelen gustar a niños y adultos por igual.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Frutas de mar a la parrilla",
+          "descripcion": "En Cozumel es muy común disfrutar parrilladas de mariscos frescos: langosta, camarones, caracol, pescado, calamar, asados al carbón con mantequilla y ajo. Muchos restaurantes locales ofrecen estas parrilladas mixtas acompañadas de tortillas y diversas salsas. Probar una langosta caribeña a la orilla del mar es una experiencia gastronómica muy representativa de la isla.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Tacos de cochinita en puesto",
+          "descripcion": "Aunque la cochinita pibil es yucateca, Cozumel la ha hecho suya en la escena callejera. En las mañanas, varios puestos en el centro venden tacos de cochinita servidos en tortillas recién salidas del comal, con su cebollita morada y salsa de habanero. Son económicos y llenos de sabor. Para los locales, es tradición desayunar estos tacos los fines de semana; los visitantes no deberían perder la oportunidad de hacerlo también.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        }
+      ],
+      "restaurantes_recomendados": [
+        {
+          "nombre": "Kondesa",
+          "especialidad": "Fusión local gourmet",
+          "descripcion": "Restaurante estilizado en un jardín al aire libre en San Miguel de Cozumel. Su cocina es mexicana fusión con ingredientes locales: ceviches creativos (prueba el de mango y habanero), tacos de pescado león (especie invasora convertida en manjar) y platos como el tamal de langosta. Ambiente romántico con música en vivo suave; excelente para una cena relajada degustando cocina cozumeleña contemporánea.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Guido’s",
+          "especialidad": "Ítalo-mexicana y mariscos",
+          "descripcion": "Un clásico de Cozumel desde 1978, ubicado frente al mar. Aunque de inspiración italiana (famoso por su lasaña y pan de ajo al horno de leña), incorpora mariscos locales en sus pastas y pizzas. También ofrece carpaccios de pescado fresco y filetes de pescado al estilo mediterráneo. Su patio trasero con jardín es encantador. Ideal para cenar mariscos con un giro internacional.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Mercado Municipal de Cozumel (Mercado Benito Juárez)",
+          "especialidad": "Comida casera económica",
+          "descripcion": "Para una experiencia verdaderamente local, este mercado en el centro tiene fondas y puestos donde cocineras isleñas sirven platillos del día. Desde tacos de guisado, empanadas de cazón, hasta almuerzos corrientes con sopa y guiso (como frijol con puerco los lunes). Un puesto destacado vende agua de coco fresca y cócteles de frutas. Aquí se puede comer muy barato y sabroso, rodeado del día a día de Cozumel.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Buccanos at Night",
+          "especialidad": "Mariscos y cortes con vista al mar",
+          "descripcion": "Restaurante de cena ubicado en el norte de la isla (Club de Playa Buccanos, que de noche funciona como restaurante). Ofrece una experiencia más exclusiva: platillos de mar y tierra con presentación gourmet, como camarones en salsa de coco-curry, filete miñón con salsa de chile poblano, y pulpo a la parrilla. La iluminación crea una atmósfera romántica, y la vista al mar bajo las estrellas complementa la velada. Recomendado para una ocasión especial.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        }
+      ]
+    },
+    "lado_este_salvaje": [
+      {
+        "nombre": "Punta Sur Eco Beach Park",
+        "descripcion": "Reserva natural más grande de Cozumel con playas vírgenes, faro Celarain con panorama espectacular, museo de navegación, cocodrilos en Laguna Colombia.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 2,
+          "atletico": 0
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Playa Punta Morena (Lado Este)",
+        "descripcion": "Hermosa extensión de arena blanca en la remota costa este de Cozumel. Aguas turquesas con fuerte oleaje ideal para admirar el poder del mar.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "El Mirador (Formación Rocosa)",
+        "descripcion": "Punto panorámico en el lado este donde las olas rompen contra formaciones rocosas naturales creando espectáculo dramático.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 2,
+          "atletico": 0
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Playa El Cielo",
+        "descripcion": "Dentro de Punta Sur, banco de arena de 3m de profundidad con numerosas estrellas de mar en aguas cristalinas. Solo accesible por lancha.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 1,
+          "atletico": 0
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ]
+  },
+  "Playa del Carmen": {
+    "playas_recomendadas": [
+      {
+        "nombre": "Playa Mamitas",
+        "descripcion": "Tramo de playa icónico en el centro de Playa del Carmen, cercano a la famosa Quinta Avenida. Es de arena clara y mar azul, con clubs de playa conocidos por su música y ambiente juvenil. Ofrece camastros y sombrillas en renta, así como áreas públicas para extender toalla. Es imperdible para quienes buscan ambiente festivo diurno, deportes de playa o simplemente nadar con vistas a la isla de Cozumel a lo lejos.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Playacar (Playas de Playacar)",
+        "descripcion": "Al sur del muelle de ferrys se extiende esta amplia playa frente a la zona residencial y hotelera de Playacar. Es más tranquila y menos concurrida que las playas del centro, con oleaje suave y arena blanca. Ideal para caminatas largas, ya que se puede recorrer un buen tramo casi sin interrupciones. Aunque el acceso público es por algunos puntos específicos, vale la pena para quienes buscan un día de sol más relajado, apto para familias y adultos mayores.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Punta Esmeralda",
+        "descripcion": "Una joya escondida al norte de la ciudad, en la colonia Colosio. Esta playa pública tiene un atractivo especial: un ojo de agua dulce (cenote) en la arena que forma una poza natural junto al mar [oai_citation:2‡bricrental.com](https://www.bricrental.com/es/descubre-una-rara-maravilla-en-la-pintoresca-playa-punta-esmeralda-en-playa-del-carmen.htm#:~:text=M%C3%A1s%20all%C3%A1%20del%20ambiente%20de,su%20tipo%20en%20el%20planeta). Es muy frecuentada por lugareños, con ambiente familiar, y algunos puestos sencillos de comida. Aquí se puede nadar alternando entre la refrescante agua dulce y el mar, lo que la hace una experiencia única en Playa del Carmen.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ],
+    "experiencias_snorkel_buceo": [
+      {
+        "nombre": "Snorkel con tortugas en Akumal",
+        "descripcion": "A unos 30 minutos de Playa del Carmen se encuentra Akumal, una bahía famosa por albergar tortugas marinas en libertad. Muchos tours o transportes te llevan temprano por la mañana para nadar con snorkel junto a tortugas verdes que se alimentan de pastos marinos, además de avistar peces tropicales y rayas. Es una actividad apta para principiantes dado lo calmado de las aguas (requiere chaleco obligatoriamente). Nadar al lado de estos apacibles animales en su entorno natural es una experiencia inolvidable.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Cenote Dos Ojos (snorkel y buceo)",
+        "descripcion": "Este famoso sistema de cenotes cerca de Tulum (aprox. 50 min de Playa) ofrece aguas cristalinas en dos cavernas conectadas ('Dos Ojos'). Los snorkelistas pueden apreciar impresionantes formaciones de estalactitas y estalagmitas apenas bajo la superficie, además de pequeños peces. Los buceadores certificados exploran pasajes más profundos con visibilidad de más de 60 metros en cuevas inundadas. La experiencia de nadar en un río subterráneo de aguas azules, rodeado de formaciones milenarias, es única de la Península de Yucatán.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 1,
+          "atletico": 3
+        },
+        "accesibilidad": "baja",
+        "links": []
+      },
+      {
+        "nombre": "Buceo en Jardines de la Reina (Arrecifes de Playa)",
+        "descripcion": "Frente a la costa de Playa del Carmen existen arrecifes menos conocidos pero interesantes como Jardines de la Reina o Moc-Che. Divers (buzos certificados) pueden tomar salidas en bote de centros locales para explorar estos sitios a 10-20 m de profundidad, encontrando una variedad de corales cerebro, abanicos de mar, peces ángel, morenas e incluso tortugas ocasionales. Si bien la visibilidad y vida marina no son tan espectaculares como Cozumel, es una buena opción de buceo costero. En invierno, además, buzos avanzados pueden vivir la adrenalina de bucear con tiburones toro en Playa (hembras que vienen a dar a luz en aguas profundas frente a la ciudad).",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 1,
+          "atletico": 4
+        },
+        "accesibilidad": "baja",
+        "links": []
+      }
+    ],
+    "tours_y_excursiones": [
+      {
+        "nombre": "Parque Xcaret",
+        "descripcion": "El parque temático eco-arqueológico más famoso de la Riviera Maya, ubicado a 15 min de Playa del Carmen. Ofrece un día completo de actividades: ríos subterráneos para nadar, acuario de arrecife de coral, mariposario, aviario, reproducción de un cementerio maya, show ecuestre, aldeas mayas y el espectacular show nocturno de Xcaret (presentación cultural de México con más de 300 artistas). Es ideal para familias y para introducirse en la naturaleza y cultura local en un entorno seguro y bien organizado.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Ruinas de Tulum y Cenote",
+        "descripcion": "Excursión de medio día o día completo al sitio arqueológico de Tulum, a 1 hora de Playa. Se recorre la única ciudad maya construida a orillas del mar, con sus templos y el famoso castillo con vista al Caribe, combinando historia con paisajes de postal. Tras la visita (mejor temprano por el calor), muchos tours llevan a un cenote cercano (Gran Cenote o Dos Ojos) para refrescarse nadando en sus aguas transparentes entre estalactitas. Esta combinación de cultura maya y chapuzón en cenote es muy apreciada por visitantes.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Cobá Maya Village",
+        "descripcion": "Tour hacia la zona de Cobá (aprox. 1.5 h desde Playa), donde se encuentra una antigua ciudad maya rodeada de lagunas. Incluye recorrer la selva en bicicleta o triciclo hacia la pirámide Nohoch Mul (la más alta de Quintana Roo, que hasta hace poco se podía escalar), así como visitar una comunidad maya cercana. Algunos tours permiten participar en una ceremonia maya de bendición, descender a un cenote oculto para nadar y probar comida típica preparada por habitantes locales. Es una experiencia enriquecedora que mezcla arqueología, aventura y convivencia cultural.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Río Secreto",
+        "descripcion": "Expedición espeleológica semi-acuática en un río subterráneo natural. Ubicado a pocos kilómetros de Playa, este tour guiado te equipa con neopreno, linterna y casco para caminar y nadar por galerías subterráneas llenas de estalactitas, columnas y aguas cristalinas. A diferencia de un cenote abierto, aquí realmente te internas bajo la tierra en un sistema de cuevas asombrosamente decoradas por la naturaleza. El recorrido dura ~1.5 h bajo tierra. Es apto para niños mayores (tienen que caminar solos) y ofrece una mirada íntima al inframundo maya.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ],
+    "cultura_y_museos": [
+      {
+        "nombre": "Museo Frida Kahlo Riviera Maya",
+        "tipo": "Museo biográfico interactivo",
+        "ubicacion": "Quinta Avenida (entre calle 8 y 10)",
+        "descripcion": "Pequeño museo dedicado a la vida y obra de la famosa pintora mexicana Frida Kahlo. A través de exhibiciones interactivas y audiovisuales, narra las etapas de Frida, sus pasiones y dolor, e incluye reproducciones de sus pinturas (no originales) y montajes escenográficos de La Casa Azul. Aunque modesto en tamaño, ofrece una experiencia cultural diferente en Playa del Carmen, ideal para días lluviosos o para amantes del arte mexicano.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Parque Los Fundadores",
+        "tipo": "Plaza pública con espectáculos",
+        "ubicacion": "Inicio de la Quinta Avenida, frente a la playa",
+        "descripcion": "Espacio emblemático de Playa del Carmen donde se encuentra el gran arco del Portal Maya, escultura que se ha vuelto símbolo de la ciudad. Aquí suelen presentarse diariamente espectáculos culturales gratuitos: destacan los Voladores de Papantla, que cada tarde realizan su ritual aéreo descendiendo desde un alto poste, y danzantes mayas o aztecas con atuendos tradicionales que ofrecen danzas prehispánicas [oai_citation:3‡vivaplaya.net](https://www.vivaplaya.net/viva/parque-fundadores-playa-del-carmen/#:~:text=No%20te%20pierdas%20al%20atardecer,prehisp%C3%A1nica%20que%20nos%20enorgullece%20tanto). El parque cuenta además con un colorido letrero de Playa del Carmen para fotos, un área de juegos infantiles y una capilla histórica (Nuestra Señora del Carmen). Es un punto de visita obligado para empaparse del folclor local.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Galería de Arte 5ta Avenida",
+        "tipo": "Galería de arte contemporáneo",
+        "ubicacion": "Quinta Avenida (cerca de Calle 24)",
+        "descripcion": "La Quinta Avenida alberga varias galerías; esta en particular destaca por exhibir obras de artistas mexicanos contemporáneos, desde pinturas y esculturas hasta artesanías finas. Los visitantes pueden admirar y adquirir piezas únicas que reflejan la cultura y creatividad de la región y del país. Recorrer una galería brinda un respiro cultural del ajetreo comercial de la Quinta, apreciando expresiones artísticas locales. Algunas noches inauguran exposiciones con vino y música, abiertas al público.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ],
+    "actividades_para_todas_las_edades": [
+      {
+        "nombre": "Parque Xenses",
+        "descripcion": "Parque temático sensorial creado por Grupo Xcaret (a 10 min de Playa). Con atracciones únicas que desafían la percepción (un pueblo al revés que desafía la gravedad, un río de lodo flotante, una cueva oscura de sensaciones, jardín de Xitricitos con aromas). Es perfecto para familias con niños y para adultos que quieran jugar con los sentidos; la experiencia completa dura medio día y promete risas y asombro para todas las edades.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 1,
+          "atletico": 0
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Cirque du Soleil: JOYÀ",
+        "descripcion": "Espectáculo permanente del Cirque du Soleil en la Riviera Maya (junto a Vidanta, 20 min de Playa). Combina acrobacias de nivel mundial con una cena gourmet opcional, en un teatro íntimo construido en medio de la jungla. La historia del show se inspira en la naturaleza y cultura mexicana, por lo que, además de ser visualmente sorprendente, conecta con la temática local. Es apto para niños mayores y adultos; una velada de lujo y fantasía que deja recuerdos imborrables.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Plaza y Clubes de la Calle 12",
+        "descripcion": "La escena nocturna de Playa del Carmen se concentra en los alrededores de la Calle 12 con 1a Avenida. Aquí se ubican clubs famosos como Coco Bongo, Mandala, Palazzo, así como bares con música en vivo. Para los más jóvenes (mayores de 18) es el sitio para bailar y socializar; sin embargo, también hay lugares con música ochentera o salsa donde adultos de más edad pueden divertirse. La atmósfera es segura y cosmopolita. Familias suelen pasear por la Quinta Avenida hasta cierta hora, pero luego la Calle 12 es principalmente para la juventud y adultos que quieran disfrutar la fiesta caribeña.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Excursión a Isla Cozumel (ferry)",
+        "descripcion": "Una actividad apta para todos es tomar el ferry desde Playa del Carmen y pasar el día en Cozumel. El viaje dura ~40 min. En Cozumel se puede: hacer un tour en bote con fondo de cristal (para ver peces sin nadar, genial para niños y abuelos), visitar el Museo de la Isla, rentar un auto o taxi para recorrer miradores, o simplemente pasar la tarde en un club de playa tranquilo. Es una escapada sencilla que amplía la experiencia de viaje. El último ferry de regreso suele ser alrededor de las 9 pm, así que se puede cenar allá antes de volver.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 2,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Beach Clubs en Playa",
+        "descripcion": "Playa del Carmen tiene numerosos clubs de playa con diferentes estilos. Algunos, como Kool Beach o Mamita’s, ofrecen DJ y ambiente juvenil, mientras otros como Lido Beach Club son más relajados y familiares. En un club de playa, se puede rentar camastro y sombrilla, comer ceviches y cocteles, y disfrutar del mar con comodidades (duchas, baños). Esta actividad es apreciada por todas las edades: niños jugando en la arena, adultos relajados con un cóctel, y jóvenes con música lounge de fondo.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ],
+    "gastronomía_local": {
+      "platillos_típicos": [
+        {
+          "nombre": "Sopa de lima",
+          "descripcion": "Caldo claro de pavo o pollo aromatizado con jugo de lima agria, especias y hierbas (orégano, cilantro). Se sirve con tiras de tortilla frita y trozos de lima. Originaria de Yucatán, es popular en la región como entrada ligera y refrescante, a pesar de ser sopa caliente. En Playa del Carmen muchos restaurantes locales la ofrecen, perfecta para probar sabores locales sin picante.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Tacos al Pastor",
+          "descripcion": "Si bien son originarios del centro de México, en Playa se han vuelto infaltables y han adoptado su estilo. Cerdo adobado en achiote y especias, asado en trompo (como shawarma) y servido en tortillas pequeñas con piña, cilantro y cebolla. Son el antojito nocturno por excelencia; puestos como El Fogón o Don Sirloin se llenan de gente cenando estos taquitos después de un día de playa. Baratos, sabrosos y parte de la experiencia local.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Mariscos estilo Riviera Maya",
+          "descripcion": "En Playa se encuentra gran variedad de mariscos preparados al estilo regional: ceviche mixto (pescado, pulpo, camarón) fresco, cócteles de camarón estilo campechano, aguachiles (camarón crudo marinado en chile y limón) para los paladares que aguantan picante, pescados enteros fritos o a la talla (adobados) servidos con tortillas. Dada la ubicación costera, probar un plato de mariscos frescos con vista al mar es obligatorio para quienes gustan del seafood.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Helado de coco y Marquesitas",
+          "descripcion": "Bajo el calor caribeño, nada mejor que un helado artesanal de coco, vendido en carritos o paleterías tradicionales de la 5ta Avenida. El coco es un sabor favorito entre locales, a veces servido directamente en medio coco congelado. Y en las noches, las marquesitas (ya descritas) se vuelven el postre predilecto: ver al marchante preparar la crepa crujiente y oír lo crocante al darle la primera mordida con queso de bola y Nutella, es una delicia que identifica las calles de Playa del Carmen.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        }
+      ],
+      "restaurantes_recomendados": [
+        {
+          "nombre": "El Fogón",
+          "especialidad": "Taquería local",
+          "descripcion": "Mencionado antes, es el lugar top para tacos al pastor en Playa. Popular entre locales por sus precios y sabor auténtico, y ya famoso entre turistas por recomendaciones. Además de tacos, ofrecen parrilladas completas, quesos fundidos y aguas frescas. Ideal para cenar rico sin gastar mucho.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "La Cueva del Chango",
+          "especialidad": "Desayunos y almuerzos mexicanos",
+          "descripcion": "También ya mencionado, su ambiente selvático y menú mexicano lo hacen imperdible. Recomendado para probar desayunos regionales: chilaquiles verdes con pollo, huevos motuleños o enfrijoladas, acompañados de jugo de chaya o un buen café. Para almuerzo, sus ensaladas con frutos tropicales y mariscos son refrescantes. Un sitio pintoresco que refleja la vibra bohemia de Playa.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 1,
+            "atletico": 0
+          },
+          "accesibilidad": "media",
+          "links": []
+        },
+        {
+          "nombre": "Alux Restaurante",
+          "especialidad": "Cocina mexicana en caverna",
+          "descripcion": "Una experiencia culinaria singular: cenar dentro de una cueva/cenote seco natural. Alux es un restaurante-bar establecido en una gruta con estalactitas iluminadas. Su menú es de alta cocina mexicana e internacional (filete con salsa de huitlacoche, langosta al tequila, etc.). Aunque los precios son elevados, el ambiente vale la pena. Recomendado para parejas o celebraciones. Se encuentra un poco apartado del centro, pero ofrece servicio de taxi al final.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 1,
+            "atletico": 0
+          },
+          "accesibilidad": "media",
+          "links": []
+        },
+        {
+          "nombre": "Los Aguachiles",
+          "especialidad": "Marisquería casual",
+          "descripcion": "Famoso por sus tacos y tostadas de mariscos con un giro moderno. Su platillo insignia son los tacos \"El Gobernador\" (camarón con queso en tortilla de harina) y una variedad de aguachiles desde el tradicional hasta versiones fusión (como de maracuyá). Ambiente relajado, ideal para almuerzo post-playa con una cerveza fría. Una probadita de la costa en cada plato.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        },
+        {
+          "nombre": "Chez Céline",
+          "especialidad": "Panadería y café francés",
+          "descripcion": "Como Playa es cosmopolita, vale la pena mencionar esta panadería francesa en plena Quinta Avenida. Es adorada para desayunos y brunch por sus quiches, croque-monsieur, crepas dulces y por supuesto su repostería fresca (pain au chocolat, eclairs, tartaletas de fruta). Turistas y residentes europeos la frecuentan. Aunque no es \"local mexicano\", se ha vuelto parte del paisaje gastronómico local y es genial para variar después de muchos tacos.",
+          "intensidad": {
+            "fisica": 0,
+            "vertigo": 0,
+            "atletico": 0
+          },
+          "accesibilidad": "alta",
+          "links": []
+        }
+      ]
+    },
+    "akumal": [
+      {
+        "nombre": "Snorkel con Tortugas en Akumal",
+        "descripcion": "Bahía protegida a 30 min de Playa del Carmen famosa por albergar tortugas marinas verdes en libertad. Nada junto a ellas mientras se alimentan de pastos marinos.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Playa Akumal",
+        "descripcion": "Hermosa playa de arena blanca con ambiente tranquilo y familiar. Menos comercializada que Playa del Carmen, perfecta para relajación.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ],
+    "puerto_morelos_cenotes": [
+      {
+        "nombre": "Ruta de los Cenotes - Puerto Morelos",
+        "descripcion": "Carretera selvática con más de 15 cenotes diferentes. Desde abiertos hasta cuevas subterráneas. Actividades: natación, snorkel, tirolesas, ATVs y exploración de cavernas.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 1,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Cenote Siete Bocas",
+        "descripcion": "Uno de los cenotes más recomendados de la Ruta. Siete cavernas interconectadas con aguas cristalinas. Menos concurrido y más auténtico.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Cenote Verde Lucero",
+        "descripcion": "Cenote semiabierto con aguas verde esmeralda y formaciones de estalagmitas. Plataformas para clavados y área de natación profunda.",
+        "intensidad": {
+          "fisica": 4,
+          "vertigo": 1,
+          "atletico": 0
+        },
+        "accesibilidad": "baja",
+        "links": []
+      },
+      {
+        "nombre": "Selvatica Adventure Park",
+        "descripcion": "Eco-parque más grande de la Ruta de Cenotes con circuito de 12 tirolesas, columpio bungee, ATVs y cenote. Experiencia de adrenalina total.",
+        "intensidad": {
+          "fisica": 4,
+          "vertigo": 4,
+          "atletico": 3
+        },
+        "accesibilidad": "baja",
+        "links": []
+      },
+      {
+        "nombre": "Arrecife Nacional de Puerto Morelos",
+        "descripcion": "Parte del Gran Arrecife Mesoamericano con snorkel desde la playa. Aguas calmadas, perfecto para principiantes y familias.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ]
+  }
+}

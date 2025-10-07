@@ -1,0 +1,692 @@
+{
+  "Cancún": {
+    "playas_recomendadas": [
+      {
+        "nombre": "Playa Delfines",
+        "descripcion": "Amplia playa pública de arena blanca y aguas azul turquesa; famosa por el letrero de 'Cancún' y su mirador panorámico. Es imperdible por sus vistas al Caribe y ambiente relajado, ideal para descansar y tomar fotos.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": [
+          {
+            "titulo": "Interactive Aquarium Cancun - Best Public Beaches",
+            "url": "https://www.interactiveaquariumcancun.com/es/mejores-playas-publicas-de-cancun",
+            "descripcion": "Complete guide to Cancun's best public beaches with tips"
+          }
+        ]
+      },
+      {
+        "nombre": "Playa Tortugas",
+        "descripcion": "Playa animada de oleaje tranquilo, popular por sus deportes acuáticos y ambiente familiar. Sus aguas calmadas la hacen segura para niños, y cuenta con restaurantes, bares y un muelle de ferry hacia Isla Mujeres.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Playa Coral (Playa Mirador II)",
+        "descripcion": "Ubicada al extremo sur de la Zona Hotelera, es una playa más aislada y la única pet-friendly de Cancún. Tiene poca profundidad y cerca de Punta Nizuc alberga parte del arrecife, lo que permite snorkelear desde la orilla entre peces tropicales.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ],
+    "experiencias_snorkel_buceo": [
+      {
+        "nombre": "Museo Subacuático de Arte (MUSA)",
+        "descripcion": "Un museo submarino con más de 500 esculturas sumergidas entre Cancún e Isla Mujeres. Es accesible mediante tours de snorkel o buceo, y las esculturas cubiertas de coral albergan abundante vida marina.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 1,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": [
+          {
+            "titulo": "MUSA Official Website",
+            "url": "https://www.musacancun.org",
+            "descripcion": "Official underwater museum site with tour info and booking"
+          }
+        ]
+      },
+      {
+        "nombre": "Arrecifes de Punta Nizuc",
+        "descripcion": "Parte del Gran Arrecife Mesoamericano (la segunda barrera coralina más grande del mundo) que inicia en Cancún. Aguas poco profundas y corrientes suaves perfectas para snorkel.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ],
+    "isla_mujeres": [
+      {
+        "nombre": "Playa Norte - Isla Mujeres",
+        "descripcion": "Considerada una de las mejores playas del mundo, con aguas cristalinas poco profundas y arena blanca. Perfecta para familias y relajación. A solo 20 minutos en ferry desde Cancún.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": [
+          {
+            "titulo": "Island Life Mexico - Isla Mujeres Guide",
+            "url": "https://www.islandlifemexico.com/isla-mujeres-guide/",
+            "descripcion": "Comprehensive travel guide for Isla Mujeres 2025"
+          },
+          {
+            "titulo": "Xcaret - What to Do in Isla Mujeres",
+            "url": "https://www.xcaret.com/en/what-to-do-in-isla-mujeres/",
+            "descripcion": "Top activities and must-see spots in Isla Mujeres"
+          }
+        ]
+      },
+      {
+        "nombre": "Punta Sur - Isla Mujeres",
+        "descripcion": "Extremo sur de la isla con acantilados dramáticos, escultura monumental 'Ixchel', y vistas panorámicas del Caribe. Incluye ruinas del templo maya dedicado a la diosa Ixchel.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 3,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Snorkel con Tiburón Ballena (temporada)",
+        "descripcion": "De junio a septiembre, nada junto al pez más grande del mundo en aguas cercanas a Isla Mujeres. Experiencia única y segura con guías certificados.",
+        "intensidad": {
+          "fisica": 4,
+          "vertigo": 2,
+          "atletico": 3
+        },
+        "accesibilidad": "media",
+        "links": [
+          {
+            "titulo": "Amstar DMC - Isla Mujeres Activities",
+            "url": "https://www.amstardmc.com/en/excursion/cancun/",
+            "descripcion": "Full-day Isla Mujeres excursions with snorkeling and island fun"
+          }
+        ]
+      }
+    ],
+    "tours_y_excursiones": [
+      {
+        "nombre": "Chichén Itzá y Cenote Ik Kil",
+        "descripcion": "Excursión de día completo a la antigua ciudad maya, Maravilla del Mundo. Incluye la Pirámide de Kukulkán, Juego de Pelota, Observatorio y nado en cenote. Balance perfecto entre cultura y aventura acuática.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 1,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Jungle Tour en Laguna Nichupté",
+        "descripcion": "Conduce tu propia lancha rápida a través de los manglares de la Laguna Nichupté. Combina emoción de velocidad con observación de fauna (aves, crustáceos, reptiles) y snorkel en Punta Nizuc.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 2,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ],
+    "cultura_y_museos": [
+      {
+        "nombre": "Museo Maya de Cancún",
+        "descripcion": "Exhibe una de las colecciones más importantes de piezas mayas en México. Incluye entrada a la zona arqueológica San Miguelito, un pequeño sitio maya con senderos selváticos.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Zona Arqueológica El Rey",
+        "descripcion": "Ruinas mayas de un antiguo asentamiento costero con estructuras bajas, plataformas y templos menores. Sitio tranquilo poblado por iguanas, ideal para una breve inmersión en historia maya.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ],
+    "actividades_para_todas_las_edades": [
+      {
+        "nombre": "Xoximilco Cancún",
+        "descripcion": "Fiesta nocturna navegando en coloridas trajineras estilo Xochimilco. Incluye cena de degustación, barra libre y música en vivo de mariachi, marimba y banda.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Ventura Park",
+        "descripcion": "Parque de diversiones y acuático con toboganes, tirolesas, montaña rusa, go-karts y realidad virtual. Área infantil para pequeños y atracciones de adrenalina para adolescentes.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 3,
+          "atletico": 2
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ]
+  },
+  "Playa del Carmen": {
+    "playas_recomendadas": [
+      {
+        "nombre": "Playa Mamitas",
+        "descripcion": "Tramo de playa icónico en el centro, cercano a Quinta Avenida. Arena clara y mar azul con clubs de playa conocidos por su música y ambiente juvenil.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Playacar Beach",
+        "descripcion": "Al sur del muelle de ferrys, esta amplia playa es más tranquila y menos concurrida. Oleaje suave y arena blanca, ideal para caminatas largas y familias.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Punta Esmeralda",
+        "descripcion": "Joya escondida al norte de la ciudad con un ojo de agua dulce (cenote) en la arena que forma una poza natural junto al mar. Única experiencia de nadar en agua dulce y salada.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": [
+          {
+            "titulo": "BRIC Rental - Punta Esmeralda Guide",
+            "url": "https://www.bricrental.com/es/descubre-una-rara-maravilla-en-la-pintoresca-playa-punta-esmeralda-en-playa-del-carmen.htm",
+            "descripcion": "Discover the rare wonder of Punta Esmeralda beach"
+          }
+        ]
+      }
+    ],
+    "akumal": [
+      {
+        "nombre": "Snorkel con Tortugas en Akumal",
+        "descripcion": "Bahía protegida a 30 min de Playa del Carmen famosa por albergar tortugas marinas verdes en libertad. Nada junto a ellas mientras se alimentan de pastos marinos. Experiencia mágica para todas las edades.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": [
+          {
+            "titulo": "Fjords and Beaches - Swimming with Turtles in Akumal 2025",
+            "url": "https://www.fjordsandbeaches.com/turtles-in-akumal/",
+            "descripcion": "Complete 2025 guide to swimming with turtles in Akumal"
+          },
+          {
+            "titulo": "Viator - Akumal Beach Swim & Snorkel with Turtles",
+            "url": "https://www.viator.com/tours/Playa-del-Carmen/Snorkeling-with-Turtles-in-Akumal-in-a-Small-Group/d5501-343229P1",
+            "descripcion": "Half-day tour with guide to snorkel with sea turtles"
+          },
+          {
+            "titulo": "Janine In The World - Ultimate Guide to Akumal Turtles",
+            "url": "https://www.janineintheworld.com/swimming-with-turtles-akumal-mexico-ultimate-guide/",
+            "descripcion": "8 essential steps for turtle swimming in Akumal"
+          }
+        ]
+      },
+      {
+        "nombre": "Playa Akumal",
+        "descripcion": "Hermosa playa de arena blanca con ambiente tranquilo y familiar. Menos comercializada que Playa del Carmen, perfecta para relajación. Varios restaurantes locales frente al mar.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ],
+    "puerto_morelos_cenotes": [
+      {
+        "nombre": "Ruta de los Cenotes - Puerto Morelos",
+        "descripcion": "Carretera selvática con más de 15 cenotes diferentes. Desde abiertos hasta cuevas subterráneas. Actividades: natación, snorkel, tirolesas, ATVs y exploración de cavernas.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 2,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": [
+          {
+            "titulo": "Travel Yucatan - Ruta de los Cenotes Guide",
+            "url": "https://travelyucatan.com/ruta-de-los-cenotes-puerto-morelos-mexico/",
+            "descripcion": "Complete guide to Cenote Route with top picks and activities"
+          },
+          {
+            "titulo": "Anna Everywhere - Best Cenotes in Puerto Morelos",
+            "url": "https://annaeverywhere.com/ruta-de-los-cenotes/",
+            "descripcion": "Detailed guide with Xenotes tour info and cenote recommendations"
+          },
+          {
+            "titulo": "Mexican Caribbean - Explore the Cenotes Route",
+            "url": "https://mexicancaribbean.travel/explore-the-cenotes-route-of-puerto-morelos-an-underground-paradise-in-the-mexican-caribbean/",
+            "descripcion": "Underground paradise with swimming, snorkeling, diving, and zip-lining"
+          }
+        ]
+      },
+      {
+        "nombre": "Cenote Siete Bocas",
+        "descripcion": "Uno de los cenotes más recomendados de la Ruta. Siete cavernas interconectadas con aguas cristalinas. Menos concurrido y más auténtico. Ideal para exploración tranquila.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Cenote Verde Lucero",
+        "descripcion": "Cenote semiabierto con aguas verde esmeralda y formaciones de estalagmitas. Plataformas para clavados y área de natación profunda. Popular entre jóvenes aventureros.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 3,
+          "atletico": 2
+        },
+        "accesibilidad": "baja",
+        "links": [
+          {
+            "titulo": "Mexican Caribbean - 10 Things to Do in Puerto Morelos",
+            "url": "https://mexicancaribbean.travel/10-things-to-do-in-puerto-morelos-discover-the-charm-of-the-mexican-caribbean/",
+            "descripcion": "Top activities including cenotes Verde Lucero, Siete Bocas, and La Noria"
+          }
+        ]
+      },
+      {
+        "nombre": "Selvatica Adventure Park",
+        "descripcion": "Eco-parque más grande de la Ruta de Cenotes con circuito de 12 tirolesas, columpio bungee, ATVs y cenote. Experiencia de adrenalina total en la jungla.",
+        "intensidad": {
+          "fisica": 4,
+          "vertigo": 5,
+          "atletico": 3
+        },
+        "accesibilidad": "baja",
+        "links": []
+      },
+      {
+        "nombre": "Arrecife Nacional de Puerto Morelos",
+        "descripcion": "Parte del Gran Arrecife Mesoamericano con snorkel desde la playa. Aguas calmadas, perfecto para principiantes y familias. Segunda barrera de coral más grande del mundo.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": [
+          {
+            "titulo": "Snorkeling Report - Puerto Morelos Snorkeling",
+            "url": "https://www.snorkeling-report.com/spot/snorkeling-puerto-morelos-mexico/",
+            "descripcion": "Guide to reef snorkeling with rays, turtles, barracudas and colorful fish"
+          },
+          {
+            "titulo": "Destination Less Travel - 12 Things to Know Before Snorkeling",
+            "url": "https://destinationlesstravel.com/snorkeling-in-puerto-morelos/",
+            "descripcion": "Best snorkeling spots, tours, and essential tips for Puerto Morelos"
+          }
+        ]
+      }
+    ],
+    "experiencias_snorkel_buceo": [
+      {
+        "nombre": "Cenote Dos Ojos",
+        "descripcion": "Sistema de cenotes famoso cerca de Tulum con aguas cristalinas en dos cavernas conectadas. Visibilidad de más de 60 metros en cuevas inundadas. Experiencia única de nadar en río subterráneo.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 2,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Buceo con Tiburones Toro (invierno)",
+        "descripcion": "Noviembre a marzo, buceo avanzado con tiburones toro hembras que vienen a dar a luz en aguas profundas frente a Playa. Experiencia de adrenalina para buzos certificados.",
+        "intensidad": {
+          "fisica": 4,
+          "vertigo": 3,
+          "atletico": 4
+        },
+        "accesibilidad": "baja",
+        "links": []
+      }
+    ],
+    "tours_y_excursiones": [
+      {
+        "nombre": "Parque Xcaret",
+        "descripcion": "Parque temático eco-arqueológico más famoso de la Riviera Maya. Ríos subterráneos, acuario de arrecife, mariposario, aviario y espectacular show nocturno de México con 300+ artistas.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Ruinas de Tulum y Cenote",
+        "descripcion": "Única ciudad maya construida a orillas del mar con el famoso castillo con vista al Caribe. Combina historia con paisajes de postal. Incluye chapuzón en cenote cercano.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Río Secreto",
+        "descripcion": "Expedición espeleológica semi-acuática en río subterráneo natural. Caminar y nadar por galerías subterráneas llenas de estalactitas y columnas. Verdadera aventura bajo tierra.",
+        "intensidad": {
+          "fisica": 4,
+          "vertigo": 3,
+          "atletico": 3
+        },
+        "accesibilidad": "baja",
+        "links": []
+      }
+    ],
+    "cultura_y_museos": [
+      {
+        "nombre": "Parque Los Fundadores",
+        "descripcion": "Espacio emblemático con el Portal Maya. Presentaciones diarias gratuitas: Voladores de Papantla (ritual aéreo) y danzantes mayas/aztecas con atuendos tradicionales.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": [
+          {
+            "titulo": "Viva Playa - Parque Fundadores Guide",
+            "url": "https://www.vivaplaya.net/viva/parque-fundadores-playa-del-carmen/",
+            "descripcion": "Complete guide to Fundadores Park with show times and activities"
+          }
+        ]
+      }
+    ],
+    "actividades_para_todas_las_edades": [
+      {
+        "nombre": "Parque Xenses",
+        "descripcion": "Parque temático sensorial con atracciones que desafían la percepción: pueblo al revés, río de lodo flotante, cueva oscura de sensaciones. Experiencia lúdica para todas las edades.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 2,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Cirque du Soleil: JOYÀ",
+        "descripcion": "Espectáculo permanente del Cirque du Soleil con acrobacias de nivel mundial y cena gourmet opcional. Teatro íntimo en medio de la jungla con historia inspirada en cultura mexicana.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ]
+  },
+  "Cozumel": {
+    "playas_recomendadas": [
+      {
+        "nombre": "Playa Palancar",
+        "descripcion": "Hermosa playa al suroeste con arena clara y aguas tranquilas de tonos turquesa. Club de playa con servicios básicos y snorkel desde la orilla. Atmósfera serena con vistas a la costa continental.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Playa Chen Río",
+        "descripcion": "Costa oriental (mar abierto) con formaciones rocosas que crean albercas naturales poco profundas. Seguras para nadar pese al fuerte oleaje exterior. Popular entre locales, perfecta para picnic.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ],
+    "lado_este_salvaje": [
+      {
+        "nombre": "Punta Sur Eco Beach Park",
+        "descripcion": "Reserva natural más grande de Cozumel con playas vírgenes, faro Celarain con panorama espectacular, museo de navegación, cocodrilos en Laguna Colombia y templo maya El Caracol. Biodiversidad excepcional.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 2,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": [
+          {
+            "titulo": "Cozumel Cruise Tours - Wild Side of Cozumel",
+            "url": "https://www.cozumelcruisetours.com/post/other-side-of-cozumel-mexico",
+            "descripcion": "Explore deserted beaches, blow holes, hidden caves, and rock formations"
+          },
+          {
+            "titulo": "Viva La Travelista - Punta Sur Cozumel 2025 Guide",
+            "url": "https://vivalatravelista.com/punta-sur-cozumel/",
+            "descripcion": "Hidden gem with stunning natural beauty and Caribbean views"
+          },
+          {
+            "titulo": "Deviating the Norm - Best Self-Guided Snorkeling",
+            "url": "http://www.deviatingthenorm.com/blogarchive/2024/4/1/punta-sur-best-self-guided-snorkeling-in-cozumel",
+            "descripcion": "Wildlife, lighthouse tower climb, and two epic snorkel locations"
+          }
+        ]
+      },
+      {
+        "nombre": "Playa Punta Morena (Lado Este)",
+        "descripcion": "Hermosa extensión de arena blanca en la remota costa este de Cozumel. Aguas turquesas con fuerte oleaje ideal para admirar el poder del mar. Restaurante local adyacente con hamacas.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": [
+          {
+            "titulo": "Island Life Mexico - Best Beaches in Cozumel",
+            "url": "https://www.islandlifemexico.com/five-best-beaches-in-cozumel/",
+            "descripcion": "Remote East Coast beaches without crowds in 2025"
+          },
+          {
+            "titulo": "Travel Safe Abroad - 12 Best Beaches in Cozumel",
+            "url": "https://www.travelsafe-abroad.com/best-beaches-in-cozumel/",
+            "descripcion": "Guide to powder-soft sand beaches on the eastern coast"
+          }
+        ]
+      },
+      {
+        "nombre": "El Mirador (Formación Rocosa)",
+        "descripcion": "Punto panorámico en el lado este donde las olas rompen contra formaciones rocosas naturales creando espectáculo dramático. Ideal para fotos y admirar la fuerza del Caribe.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 2,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Playa El Cielo",
+        "descripcion": "Dentro de Punta Sur, banco de arena de 3m de profundidad con numerosas estrellas de mar en aguas cristalinas. Solo accesible por lancha. También rayas y peces tropicales.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ],
+    "experiencias_snorkel_buceo": [
+      {
+        "nombre": "Arrecifes de Palancar y Columbia",
+        "descripcion": "Famosos mundialmente por visibilidad excepcional (+30m) y vibrante vida marina. Palancar es poco profundo, Columbia tiene paredes de coral con rayas águila y tortugas. Obligatorios para amantes del submarinismo.",
+        "intensidad": {
+          "fisica": 3,
+          "vertigo": 1,
+          "atletico": 2
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Buceo en C-53 Felipe Xicotencatl",
+        "descripcion": "Barco dragaminas hundido a propósito a ~20m de profundidad. Múltiples aperturas para exploración segura del interior. Arrecife artificial hogar de coral blando, esponjas, meros y jureles.",
+        "intensidad": {
+          "fisica": 4,
+          "vertigo": 2,
+          "atletico": 3
+        },
+        "accesibilidad": "baja",
+        "links": []
+      }
+    ],
+    "tours_y_excursiones": [
+      {
+        "nombre": "Ruinas Mayas de San Gervasio",
+        "descripcion": "Principal sitio arqueológico de Cozumel, antiguo centro de peregrinación dedicado a la diosa Ixchel. Guía local explica templos, arcos y sacbés (caminos blancos). Rodeado de selva.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Chankanaab Beach Adventure Park",
+        "descripcion": "Parque de playa dentro del Parque Nacional Marino. Laguna Chankanaab, jardín botánico, show de lobos marinos, snorkel en arrecife desde la orilla. Opción de nado con delfines.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Tour en Submarino Atlantis",
+        "descripcion": "Submarino turístico que desciende hasta ~30 metros. A través de ventanillas se observan arrecifes profundos, peces, esponjas gigantes, tortugas o tiburones nodriza. Experiencia sin mojarse.",
+        "intensidad": {
+          "fisica": 0,
+          "vertigo": 1,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Tour de Jeep por la Isla",
+        "descripcion": "Conduce Jeep o buggy por carretera perimetral. Paradas en El Mirador, Playa San Martín, tequilera artesanal, San Gervasio y club de playa. Forma divertida de recorrer toda la isla en un día.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 1,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      }
+    ],
+    "cultura_y_museos": [
+      {
+        "nombre": "Museo de la Isla de Cozumel",
+        "descripcion": "Renovado con 11 salas interactivas que relatan historia natural y cultural. Formación geológica, biodiversidad marina/terrestre, vida maya y época contemporánea. Incluye tradición del Carnaval.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      },
+      {
+        "nombre": "Mayan Cacao Company",
+        "descripcion": "Museo vivo del cacao que muestra proceso tradicional maya de elaboración de chocolate. Sendero con estaciones, artesanos moliendo cacao a mano y degustación. Usos ceremoniales como moneda.",
+        "intensidad": {
+          "fisica": 1,
+          "vertigo": 0,
+          "atletico": 0
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ],
+    "actividades_para_todas_las_edades": [
+      {
+        "nombre": "Cozumel Pearl Farm",
+        "descripcion": "Granja perlífera familiar accesible solo en lancha (tour reservado). Paseo en bote, explicación del cultivo de perlas, visita a líneas de ostras y playa paradisíaca remota con snorkel en arrecife virgen.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "media",
+        "links": []
+      },
+      {
+        "nombre": "Mr. Sancho's Beach Club",
+        "descripcion": "Club familiar al sur con pase de día todo incluido. Albercas, juegos, kayak, caballos, parque acuático inflable, camastros en playa. Opción cómoda donde cada miembro encuentra algo que hacer.",
+        "intensidad": {
+          "fisica": 2,
+          "vertigo": 0,
+          "atletico": 1
+        },
+        "accesibilidad": "alta",
+        "links": []
+      }
+    ]
+  }
+}
+

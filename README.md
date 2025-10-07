@@ -1,36 +1,116 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏝️ Votación Caribe Mexicano
 
-## Getting Started
+**La app definitiva para que tu familia decida qué hacer en el Caribe!**
 
-First, run the development server:
+## 📊 Stats
+
+- ✅ **98 lugares** curados con investigación real
+- 🎯 **3 destinos**: Cancún (33), Cozumel (31), Playa del Carmen (34)
+- 👨‍👩‍👧‍👦 **14 votantes** de la familia
+- 🎨 **Sistema de intensidad** con 3 dimensiones (Energía, Emoción, Habilidad)
+- 📸 **Fotos reales** vía Unsplash
+- 🔗 **Links útiles** investigados con Brave Search
+- ⚡ **Material Design** + Gestalt Psychology
+
+## 🚀 Quick Start
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abre [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 💡 Cómo Usar
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Selecciona tu nombre** en el dropdown
+2. **Filtra** por destino, categoría o intensidad
+3. **Vota** por tus lugares favoritos (ilimitado!)
+4. **Click en el ícono ℹ️** para ver links útiles
+5. **Mira el Top 5** para ver lo más votado
 
-## Learn More
+## 🎯 Sistema de Intensidad
 
-To learn more about Next.js, take a look at the following resources:
+### Energía ⚡ (0-5)
+- 0 = Relax total
+- 5 = Alta energía
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Emoción 🌀 (0-5)
+- 0 = Tranquilo
+- 5 = Emocionante
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Habilidad ⭐ (0-5)
+- 0 = Principiante
+- 5 = Experto
 
-## Deploy on Vercel
+### Accesibilidad
+- ❤️ **Para Todos**: Perfecto para toda la familia
+- 👥 **Moderado**: Requiere condición física promedio
+- 🔥 **Aventureros**: Para los más intrépidos
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📂 Archivos Importantes
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- `src/app/vote-enhanced.js` - La app principal
+- `src/app/consolidated-data.json` - Los 98 lugares con ratings
+- `enrich_data.py` - Script para enriquecer data con crawl4ai
+- `venv/` - Python environment para crawl4ai
+
+## 🔄 Actualizar Data
+
+```bash
+source venv/bin/activate
+python enrich_data.py
+```
+
+## 🎨 Design
+
+- **Material Design**: Cards con elevación, colores intencionales
+- **Gestalt Principles**: Proximidad, similaridad, continuación
+- **Responsive**: Móvil → Tablet → Desktop (1 → 2 → 3 → 4 columnas)
+- **Icons**: Lucide React (consistentes y modernos)
+- **Typography**: Jerarquía clara, legible
+- **Colors**: Cyan/Blue (caribeño), Green (accesible), Red (intenso)
+
+## 🛠️ Tech Stack
+
+- **Next.js 15** con Turbopack
+- **React 18** con hooks
+- **Tailwind CSS** para styling
+- **shadcn/ui** para components
+- **Lucide React** para iconos
+- **Python + crawl4ai** para data enrichment
+
+## 📸 Imágenes
+
+Usa Unsplash con fallback a gradientes + emoji si falla la imagen.
+
+## 🗳️ Votación
+
+- **Ilimitado**: Vota por todos los que quieras
+- **Toggle**: Click de nuevo para quitar voto
+- **Personal**: Cada quien tiene su lista
+- **Agregado**: Ves el total de todos
+
+## 🎯 Por Qué Es Chingón
+
+1. **Data Real**: Investigación con Brave Search, no inventada
+2. **98 Lugares**: TODO incluido (original + nuevo research)
+3. **Fotos Reales**: No placeholders pedorros
+4. **Sistema Psicológico**: Energía/Emoción/Habilidad (no físico/vértigo/atlético)
+5. **Para TODOS**: De abuelos a niños, cada quien encuentra algo
+6. **Links Útiles**: Click y ve más info de cualquier lugar
+7. **Top 5 Live**: Ve qué está ganando en tiempo real
+8. **Bonito AF**: Material Design hecho bien
+
+## 🚧 TODO (Future)
+
+- [ ] Agregar más links por lugar
+- [ ] Sistema de comentarios
+- [ ] Exportar itinerario
+- [ ] Integrar precios
+- [ ] Weather data
+- [ ] Mapa interactivo
+- [ ] Compartir resultados
+
+---
+
+**Made with 💙 for the familia**
