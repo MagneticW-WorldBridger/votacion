@@ -449,6 +449,30 @@ export default function VotingAppEnhanced() {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [filtersExpanded, setFiltersExpanded] = useState(false);
   const [expandedDescriptions, setExpandedDescriptions] = useState(new Set());
+  const [loading, setLoading] = useState(true);
+  const [votingInProgress, setVotingInProgress] = useState(false);
+
+  // Fetch votes from database
+  React.useEffect(() => {
+    async function fetchVotes() {
+      try {
+        const response = await fetch('/api/votes');
+        const data = await response.json();
+        
+        if (data.success) {
+          setVotes(data.votes || {});
+        } else {
+          console.error('Failed to fetch votes:', data.error);
+        }
+      } catch (error) {
+        console.error('Error fetching votes:', error);
+      } finally {
+        setLoading(false);
+      }
+    }
+    
+    fetchVotes();
+  }, []);
 
   const voterHasVotedIds = useMemo(() => new Set(votes[voter] || []), [votes, voter]);
 
@@ -503,19 +527,61 @@ export default function VotingAppEnhanced() {
     return sorted.slice(0, 5);
   }, [totalsByItem]);
 
-  function toggleVote(id) {
+  async function toggleVote(id) {
     if (!voter) {
       alert("Primero selecciona tu nombre para votar.");
       return;
     }
-    setVotes((prev) => {
-      const copy = { ...prev };
-      const prevArr = new Set(copy[voter] || []);
-      if (prevArr.has(id)) prevArr.delete(id);
-      else prevArr.add(id);
-      copy[voter] = Array.from(prevArr);
-      return copy;
-    });
+    
+    if (votingInProgress) {
+      return; // Prevent double-clicks
+    }
+    
+    setVotingInProgress(true);
+    
+    try {
+      // Determine if we're adding or removing
+      const currentVotes = new Set(votes[voter] || []);
+      const action = currentVotes.has(id) ? 'remove' : 'add';
+      
+      // Call the API
+      const response = await fetch('/api/votes', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          voterName: voter,
+          placeId: id,
+          action: action,
+        }),
+      });
+      
+      const data = await response.json();
+      
+      if (data.success) {
+        // Update local state optimistically
+        setVotes((prev) => {
+          const copy = { ...prev };
+          const prevArr = new Set(copy[voter] || []);
+          if (action === 'remove') {
+            prevArr.delete(id);
+          } else {
+            prevArr.add(id);
+          }
+          copy[voter] = Array.from(prevArr);
+          return copy;
+        });
+      } else {
+        console.error('Vote toggle failed:', data.error);
+        alert(`Error: ${data.error}`);
+      }
+    } catch (error) {
+      console.error('Error toggling vote:', error);
+      alert('Error al guardar el voto. Intenta de nuevo.');
+    } finally {
+      setVotingInProgress(false);
+    }
   }
 
   function openLinks(item) {
@@ -580,6 +646,19 @@ export default function VotingAppEnhanced() {
     }
     
     return 'from-cyan-200 via-blue-300 to-teal-400';
+  }
+
+  // Loading state
+  if (loading) {
+    return (
+      <div className="min-h-screen w-full bg-gradient-to-br from-blue-50 via-cyan-50 to-teal-50 flex items-center justify-center">
+        <div className="text-center">
+          <Waves className="w-16 h-16 text-cyan-600 animate-bounce mx-auto mb-4" />
+          <p className="text-xl font-semibold text-cyan-700">Cargando votaciones...</p>
+          <p className="text-sm text-slate-600 mt-2">Conectando con la base de datos</p>
+        </div>
+      </div>
+    );
   }
 
   return (
@@ -851,10 +930,16 @@ export default function VotingAppEnhanced() {
                       myVoted 
                         ? "bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 text-white shadow-lg" 
                         : "hover:bg-cyan-50 hover:border-cyan-400 border-2"
-                    }`}
+                    } ${votingInProgress ? 'opacity-50 cursor-wait' : ''}`}
                     onClick={() => toggleVote(it.id)}
+                    disabled={votingInProgress}
                   >
-                    {myVoted ? (
+                    {votingInProgress ? (
+                      <span className="flex items-center gap-2">
+                        <Activity className="w-4 h-4 animate-spin" />
+                        Guardando...
+                      </span>
+                    ) : myVoted ? (
                       <span className="flex items-center gap-2">
                         <Check className="w-4 h-4" />
                         Votado
