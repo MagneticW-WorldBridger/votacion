@@ -1,9 +1,10 @@
 {
   "metadata": {
-    "total_places": 98,
+    "total_places": 63,
     "enriched_at": "2025-10-02",
     "version": "2.0",
-    "last_image_update": "2025-10-07T14:57:42.287Z"
+    "last_image_update": "2025-10-07T14:57:42.287Z",
+    "cleaned_at": "2025-10-09"
   },
   "places": [
     {
@@ -17,7 +18,7 @@
       "accesibilidad": "media",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [],
       "destino": "Cancún",
@@ -42,7 +43,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico",
+        "👌 Súper relajado - cero esfuerzo físico",
         "⛵ Transporte en lancha/barco incluido"
       ],
       "links_utiles": [],
@@ -256,7 +257,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [],
       "destino": "Cancún",
@@ -280,7 +281,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [],
       "destino": "Cancún",
@@ -302,7 +303,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [],
       "destino": "Cancún",
@@ -324,7 +325,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico",
+        "👌 Súper relajado - cero esfuerzo físico",
         "⛵ Transporte en lancha/barco incluido"
       ],
       "links_utiles": [],
@@ -347,7 +348,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico",
+        "👌 Súper relajado - cero esfuerzo físico",
         "☀️ Protector solar obligatorio - sol caribeño fuerte"
       ],
       "links_utiles": [],
@@ -393,7 +394,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [],
       "destino": "Cancún",
@@ -402,313 +403,6 @@
         "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/60/4d/c3.jpg",
         "https://cdn1.wellet.fun/65957a9e-467e-4eca-a53d-40ad4ec93cd3",
         "https://whattodoincancun.com/_astro/inicio-coco-bongo.BedKjzcQ.webp"
-      ]
-    },
-    {
-      "nombre": "Cochinita pibil",
-      "descripcion": "Carne de cerdo marinada en achiote y jugo de naranja agria, envuelta en hoja de plátano y cocinada lentamente en un horno subterráneo (píib). Se sirve deshebrada en tacos o tortas, con cebolla morada encurtida y chile habanero. Es un plato insignia de la cocina yucateca, ampliamente disfrutado en Quintana Roo.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://storage.googleapis.com/gx-global-cms/mkt/c9ea9d8a-64e2-4834-bf32-2bf242ab0867.jpg",
-        "https://storage.googleapis.com/gx-global-cms/mkt/d63f4299-50d8-4805-8b72-0a6d7197cb2c.jpg",
-        "https://travelblog.nexustours.com/wp-content/uploads/2025/04/The-Taco-Tour-11-scaled.webp"
-      ]
-    },
-    {
-      "nombre": "Pescado a la Tikin-Xic",
-      "descripcion": "Receta tradicional maya donde un pescado entero (usualmente huachinango) se marinaa con achiote, se envuelve en hojas de plátano y se cocina a las brasas. Originario de la zona costera de Quintana Roo, combina el sabor ahumado con el toque cítrico del achiote. Se sirve con tortillas y salsa de habanero, ideal para compartir en la playa.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://blog.garrafon.com.mx/wp-content/uploads/2020/04/pescado-tikin-xic.jpg",
-        "https://patijinich.com/es/wp-content/uploads/sites/3/2017/12/Tikin-Xic.jpg",
-        "https://www.tiktok.com/api/img/?itemId=7145631418511576325&location=0&aid=1988"
-      ]
-    },
-    {
-      "nombre": "Panuchos y Salbutes",
-      "descripcion": "Antojitos yucatecos: ambos son tortillas de maíz fritas, pero el panucho se rellena de frijol refrito antes de freír. Se sirven cubiertos de pollo deshebrado (o cochinita), lechuga, tomate, aguacate y cebolla curtida. Son una comida callejera popular en la región, perfectos para probar en mercados locales o puestos ambulantes.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://media-cdn.tripadvisor.com/media/photo-s/12/30/65/5f/salbutes-y-panuchos.jpg",
-        "https://eatyourworld.com/wp-content/uploads/2014/07/salbute.jpg",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4091219354270970"
-      ]
-    },
-    {
-      "nombre": "Ceviche de caracol",
-      "descripcion": "Plato caribeño típico de las costas de Quintana Roo. Consiste en carne de caracol (molusco marino) picada y 'cocida' en jugo de limón, mezclada con jitomate, cebolla morada, cilantro y chile habanero picado. El resultado es un ceviche fresco y picante, apreciado especialmente en Cozumel e Isla Mujeres.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://losgastronautas.com/wp-content/uploads/2015/04/Ceviche-de-caracol-copy-750x400.jpg",
-        "https://blog.dolphindiscovery.com.mx/wp-content/uploads/2020/05/img_20160916_1521531-1024x576.jpg",
-        "https://www.tiktok.com/api/img/?itemId=7492131767290416430&location=0&aid=1988"
-      ]
-    },
-    {
-      "nombre": "Marquesitas",
-      "descripcion": "Postre callejero originario de Yucatán. Es una crepa delgada que se cocina hasta quedar crujiente como barquillo y se rellena tradicionalmente con queso de bola (Edam) rallado y alguna mermelada, cajeta o Nutella. La combinación de queso salado con dulce la hace un imperdible para las noches, fácilmente encontrado en carritos en plazas y la Quinta Avenida.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://s3-media0.fl.yelpcdn.com/bphoto/blX2L6KnlDxAw8HuudCWZw/348s.jpg",
-        "https://c8.alamy.com/comp/2PM805G/cancun-quintana-roo-mexico-marquesitas-that-is-a-traditional-mexican-dessert-originally-from-merida-in-yucatan-area-2PM805G.jpg",
-        "https://www.tiktok.com/api/img/?itemId=7471070223848803589&location=0&aid=1988"
-      ]
-    },
-    {
-      "nombre": "La Habichuela (Cancún)",
-      "especialidad": "Cocina yucateca y caribeña",
-      "descripcion": "Restaurante emblemático en el centro de Cancún, famoso por su jardín ambientado con esculturas mayas. Sirve platillos regionales como el pescado Tikin-Xic y la crema de chaya, así como su creación 'Cocobichuela' (mariscos al curry servidos en coco). Ideal para una cena relajada probando sabores locales con un toque gourmet.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://resizer.otstatic.com/v3/photos/25573471-1?width=752&height=752&webp=true",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/5d/7b/9f/la-habichuela-from-the.jpg?w=900&h=500&s=1",
-        "http://www.cancunmenus.com/images/newimagesforweb/LaHabGarden.jpg"
-      ]
-    },
-    {
-      "nombre": "El Pocito (Cancún)",
-      "especialidad": "Comida casera yucateca",
-      "descripcion": "Pequeña lonchería local conocida por su cochinita pibil tradicional, escabeche oriental y otros guisos yucatecos auténticos. Es modesta y económica, frecuentada por cancunenses que buscan el sazón casero. Perfecto para desayunar o almorzar panuchos, relleno negro o lechón al estilo Yucatán.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://s3-media0.fl.yelpcdn.com/bphoto/elbyXESoVEeIfBrIekOZUA/348s.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-s/1c/1f/cc/90/loncheria-el-pocito.jpg",
-        "https://www.tiktok.com/api/img/?itemId=7436796768492326200&location=0&aid=1988"
-      ]
-    },
-    {
-      "nombre": "Parque de las Palapas (Cancún)",
-      "especialidad": "Puestos callejeros variados",
-      "descripcion": "Más que un restaurante, es la zona por excelencia para probar antojitos locales en Cancún. En este parque encontrarás kioscos que venden desde elotes y esquites, hasta marquesitas, empanadas, tamales y tacos al pastor. Por las noches, es un punto de reunión de familias donde se puede cenar barato y sabroso al aire libre.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/7f/ec/b3/in-the-evening.jpg?w=1200&h=-1&s=1",
-        "https://images.odigoo.com/cb6a1e9c-21c6-4165-9ba7-db9263d832a1/images/media/las-palapas-park/webp/palapas-qrys.webp",
-        "https://www.mexicoescultura.com/galerias/espacios/principal/palapas.jpg"
-      ]
-    },
-    {
-      "nombre": "La Choza (Cozumel)",
-      "especialidad": "Cocina regional y mariscos",
-      "descripcion": "Restaurante familiar cerca del centro de Cozumel, con techos de palapa. Su menú ofrece desde sopa de lima y papadzules hasta mariscos frescos. Recomendado probar el filete de pescado al coco o los tacos de camarón. Ambiente acogedor y auténtico, atendido por locales.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://s3-media0.fl.yelpcdn.com/bphoto/IiCv5GThnOGTUKBvHx3L-Q/348s.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/29/3d/10/outside-la-choza.jpg?w=900&h=500&s=1",
-        "https://lachozacozumel.shop/public/media/lachozacozumel-shop/1.jpg"
-      ]
-    },
-    {
-      "nombre": "El Moro (Cozumel)",
-      "especialidad": "Comida típica yucateca",
-      "descripcion": "Un \"secreto\" local ubicado en un barrio alejado del circuito turístico. Famoso por sus abundantes desayunos y platillos caseros como frijol con puerco, enchiladas de mole y cochinita. Los dueños suelen atender personalmente. Porciones generosas, precios justos y sabor tradicional garantizado.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 2
-      },
-      "accesibilidad": "media",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c6/c2/d2/photo0jpg.jpg?w=500&h=-1&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/eb/d7/d4/caption.jpg?w=900&h=-1&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/14/e9/9c/its-5o-clock-all-the.jpg?w=400&h=300&s=1",
-        "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/hotelier-images/89/f2/fc5723d43a5eb2fb10acf45626710d4404882891a3681bb4b65ceb7df14c.jpeg",
-        "https://s3-media0.fl.yelpcdn.com/bphoto/EG5zh2ZQ-wRAm9uN_oNV1w/348s.jpg",
-        "https://elcidvacationsclub.com/wp-content/uploads/2025/08/EC_AR_Marina_PoolShots_P1088604_final_16bit-6-scaled.jpg"
-      ]
-    },
-    {
-      "nombre": "El Fogón (Playa del Carmen)",
-      "especialidad": "Tacos y parrillada mexicana",
-      "descripcion": "Taquería muy popular entre locales y viajeros, famosa por sus trompos de pastor a la vista. Ofrece tacos, alambres y costillas a la parrilla con auténtico sazón. No te pierdas los tacos al pastor con piña y las arracheras. Hay varias sucursales en Playa; suele haber fila pero el servicio es rápido y vale la pena para cenar económico.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://everythingplayadelcarmen.com/wp-content/uploads/2024/01/el-fogon-scaled.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/fb/41/d2/el-fogon.jpg?w=500&h=-1&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/e7/f9/8e/photo0jpg.jpg?w=900&h=500&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/f2/83/1e/taqueria-el-fogon.jpg?w=900&h=500&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/98/25/4b/locale.jpg?w=900&h=-1&s=1",
-        "https://everythingplayadelcarmen.com/wp-content/uploads/2024/01/el-fogon-6-817x1024.jpg"
-      ]
-    },
-    {
-      "nombre": "La Cueva del Chango (Playa del Carmen)",
-      "especialidad": "Cocina mexicana contemporánea",
-      "descripcion": "Restaurante pintoresco en la zona de la Calle 38, con entorno selvático (fuentes, árboles y hasta un cenote pequeño decorativo). Ideal para desayunos y almuerzos relajados. Sirve jugos naturales, huevos motuleños, chilaquiles, mariscos frescos y platillos mexicanos con toque creativo. Muy concurrido por su atmósfera única y sabores frescos.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 1,
-        "atletico": 0
-      },
-      "accesibilidad": "media",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico",
-        "🧊 Agua fría (22-25°C) - wetsuit opcional pero ayuda"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/46/7f/ff/la-cueva-del-chango-esta.jpg?w=500&h=-1&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/18/87/60/entrada-principal-durante.jpg?w=900&h=500&s=1",
-        "https://www.playadelcarmen.com/blog/wp-content/uploads/la-cueva-del-chango-1-of-1-13.jpg",
-        "https://www.playadelcarmen.com/blog/wp-content/uploads/la-cueva-del-chango-1-of-1-16.jpg",
-        "https://cdn0.bodas.com.mx/vendor/3619/3_2/960/jpg/montaje-nocturno_5_73619.jpeg",
-        "https://www.playadelcarmen.com/blog/wp-content/uploads/la-cueva-del-chango-1-of-1-30.jpg"
-      ]
-    },
-    {
-      "nombre": "La Perla Pixan Cuisine & Mezcal (Playa del Carmen)",
-      "especialidad": "Cocina maya contemporánea y mezcalería",
-      "descripcion": "Restaurante-bar que combina gastronomía tradicional maya con presentaciones modernas. Ofrece platos como relleno negro, ceviche de pescado con salsa de chaya y platillos con venado o jabalí, acompañados de una extensa carta de mezcales artesanales. Por las noches suele haber música en vivo (trova, son jarocho o marimba) creando un ambiente cultural perfecto para adultos.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://resizer.otstatic.com/v3/photos/64777494-3?width=1280&height=720&webp=true",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/9c/54/bf/menu-especial-de-cuaresma.jpg?w=900&h=500&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/a1/57/5c/interior-2.jpg?w=900&h=500&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/c1/f7/6b/autentica-cocina-peruana.jpg?w=400&h=-1&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/8e/89/1d/enfrijoladas-rellenas.jpg?w=900&h=500&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/c4/63/c0/locacion.jpg?w=400&h=-1&s=1"
       ]
     },
     {
@@ -722,7 +416,7 @@
       "accesibilidad": "media",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico",
+        "👌 Súper relajado - cero esfuerzo físico",
         "☀️ Protector solar obligatorio - sol caribeño fuerte",
         "⛵ Transporte en lancha/barco incluido"
       ],
@@ -765,7 +459,7 @@
       "accesibilidad": "media",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [],
       "destino": "Cancún",
@@ -777,31 +471,6 @@
         "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=818322366997825",
         "https://www.cancunairporttransportations.com/blog/wp-content/uploads/2020/12/20161023_154509-scaled.jpg",
         "https://vivalatravelista.com/wp-content/uploads/2023/02/Isla-Mujeres-Punta-Sur-2.jpg"
-      ]
-    },
-    {
-      "nombre": "Snorkel con Tiburón Ballena (temporada)",
-      "descripcion": "De junio a septiembre, nada junto al pez más grande del mundo en aguas cercanas a Isla Mujeres. Experiencia única y segura con guías certificados.",
-      "intensidad": {
-        "fisica": 4,
-        "vertigo": 0,
-        "atletico": 3
-      },
-      "accesibilidad": "baja",
-      "links": [],
-      "requisitos_especificos": [
-        "💪 Alta energía - 3+ horas de actividad intensa"
-      ],
-      "links_utiles": [],
-      "destino": "Cancún",
-      "categoria": "isla_mujeres",
-      "image_urls": [
-        "https://mayanmonkey.com/blog/es/wp-content/uploads/sites/2/2022/06/shutterstock_70095013-compressed-scaled.jpg",
-        "https://cdn.sanity.io/images/atvntylo/production/ea9d60295392ed3b3d49914f1b36b240c1939f6e-1080x720.png",
-        "https://cdn.sanity.io/images/atvntylo/production/7244534a206666c1fa5dac8f9ef2fc01c94bf7b0-1080x1630.webp?w=3840&q=70&fit=clip&auto=format",
-        "https://cdn2.paraty.es/nomads-corpo/images/ec3c0fb879e5ff3",
-        "https://cdn.sanity.io/images/atvntylo/production/0007e92a6a827f6979d6248ac6942cfc77a3f927-1080x1630.webp?w=3840&q=70&fit=clip&auto=format",
-        "https://www.islacontoyexperience.com/hs-fs/hubfs/Whale%20Shark%20Tour%20-%20Isla%20Contoy-1.webp?width=1200&height=675&name=Whale%20Shark%20Tour%20-%20Isla%20Contoy-1.webp"
       ]
     },
     {
@@ -971,7 +640,7 @@
       "accesibilidad": "media",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico",
+        "👌 Súper relajado - cero esfuerzo físico",
         "☀️ Protector solar obligatorio - sol caribeño fuerte",
         "⛵ Transporte en lancha/barco incluido",
         "📅 Reservación anticipada recomendada"
@@ -999,7 +668,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico",
+        "👌 Súper relajado - cero esfuerzo físico",
         "🕐 Medio día (3-4 horas)"
       ],
       "links_utiles": [],
@@ -1078,7 +747,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [],
       "destino": "Cozumel",
@@ -1090,33 +759,6 @@
         "https://i0.wp.com/thecozumelsun.com/wp-content/uploads/2024/03/image-4.png?resize=505%2C328&ssl=1",
         "https://cdn.forevervacation.com/uploads/digital/assets/museo-de-la-isla-de-cozumel.jpeg",
         "http://sic.cultura.gob.mx/images/16958"
-      ]
-    },
-    {
-      "nombre": "El Cedral (Festival Tradicional)",
-      "tipo": "Fiesta tradicional / Histórico",
-      "ubicacion": "Comunidad El Cedral (sur de Cozumel)",
-      "descripcion": "El Cedral es una pequeña localidad que alberga la capilla y ruinas del primer asentamiento poblado de la isla. Cada año (finales de abril y principios de mayo) se celebra aquí la Feria de El Cedral, una festividad con más de 150 años de antigüedad que combina eventos religiosos, música, bailes folclóricos, corridas de toros, comida típica y artesanías. Es una manifestación cultural viva donde visitantes pueden convivir con familias cozumeleñas en una atmósfera festiva y auténtica. Fuera de la fecha de fiesta, El Cedral ofrece un vistazo tranquilo a la vida rural de Cozumel y su pequeña ruina maya.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cozumel",
-      "categoria": "cultura_y_museos",
-      "image_urls": [
-        "https://thisiscozumel.com/images/news-2019/el-cedral-festival-2019-001.jpg",
-        "https://r.profitroom.pl/casamexicanacozumel/images/events/thumbs/1920x1080/1732289067.Dise%C3%B1o%20sin%20t%C3%ADtulo%20(3).jpg?updated=2025-01-13_16-59",
-        "https://i0.wp.com/thecabanabeach.com/wp-content/uploads/2022/09/people-at-the-fair-1.jpeg?fit=500%2C375&ssl=1",
-        "https://escapadas.mexicodesconocido.com.mx/wp-content/uploads/2021/03/Feria-de-El-Cedral-Cozumel-baile-Listones.jpg",
-        "https://thecozumelsun.com/wp-content/uploads/2016/04/el-cedral.jpg",
-        "https://thisiscozumel.com/images/news-2019/el-cedral-festival-2019-002.jpg"
       ]
     },
     {
@@ -1132,7 +774,7 @@
       "accesibilidad": "media",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [],
       "destino": "Cozumel",
@@ -1169,57 +811,6 @@
         "https://www.shoreexcursioneer.com/imgs/view_of_mr_sanchos_from_the_sky_11-92.jpg",
         "https://www.shoreexcursioneer.com/imgs/enjoy_the_pool_and_beach_area_140-12.jpg",
         "https://i.ytimg.com/vi/mKv4K31rTEw/maxresdefault.jpg"
-      ]
-    },
-    {
-      "nombre": "Atlantis Submarine (Submarino turístico)",
-      "descripcion": "Una experiencia apta para niños, adultos y adultos mayores: embarcar en un submarino real para explorar el fondo del mar. Durante ~40 minutos, el submarino recorre arrecifes profundos mostrando coral, peces e incluso un barco hundido, todo narrado por un guía a bordo. Es seguro y cómodo, ideal para quienes no pueden bucear o snorkelear pero desean maravillarse con el mundo subacuático de Cozumel.",
-      "intensidad": {
-        "fisica": 2,
-        "vertigo": 1,
-        "atletico": 1
-      },
-      "accesibilidad": "media",
-      "links": [],
-      "requisitos_especificos": [
-        "🏊 Nadar/snorkelear por 30-60 minutos",
-        "⛵ Transporte en lancha/barco incluido"
-      ],
-      "links_utiles": [],
-      "destino": "Cozumel",
-      "categoria": "actividades_para_todas_las_edades",
-      "image_urls": [
-        "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/1f/78/23.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/53/d8/7e/atlantis-submarines-xii.jpg?w=1200&h=-1&s=1",
-        "https://alg.widen.net/content/hswpfifbey/jpeg/Mexican-Caribbean-Cancun-Submarine-Navigating-Reef-id1426-Nov-29-2023-001.jpeg?u=itfpsm&download=true&q=80",
-        "https://www.zonaturistica.com/files/atractivos/1638/A1_1638.jpg",
-        "https://www.shoreexcursionsgroup.com/img/tour/CACZATLSUB-2.jpg",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3722307089701102517"
-      ]
-    },
-    {
-      "nombre": "Tour de Jeep por la Isla",
-      "descripcion": "Actividad popular en la que se conduce (o va como pasajero) un Jeep o buggy a lo largo de la carretera perimetral de Cozumel. Suele incluir paradas en puntos panorámicos y sitios de interés: El Mirador (formación rocosa esculpida por el mar), Playa San Martín, una tequilera artesanal para degustación, San Gervasio (ruinas mayas) y finaliza en un club de playa para snorkel o comida. Es una forma divertida de recorrer toda la isla en un día y apta para grupos, aunque los niños deben ir acompañados por adultos en los vehículos.",
-      "intensidad": {
-        "fisica": 1,
-        "vertigo": 2,
-        "atletico": 1
-      },
-      "accesibilidad": "media",
-      "links": [],
-      "requisitos_especificos": [
-        "🚶 Caminar tranquilo por 15-30 minutos"
-      ],
-      "links_utiles": [],
-      "destino": "Cozumel",
-      "categoria": "actividades_para_todas_las_edades",
-      "image_urls": [
-        "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/09/9f/0e.jpg",
-        "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/75/75/6c.jpg",
-        "https://i.ytimg.com/vi/QYuhAQqZ4C8/maxresdefault.jpg",
-        "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/27/f5/e8.jpg",
-        "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/75/75/6d.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5f/90/9e/caption.jpg?w=300&h=300&s=1"
       ]
     },
     {
@@ -1278,235 +869,6 @@
       ]
     },
     {
-      "nombre": "Filete de pescado al coco",
-      "descripcion": "Especialidad isleña: filete de pescado empanizado con coco rallado, frito hasta dorar. Combina el sabor suave del pescado fresco (generalmente pargo o mero) con el toque dulce-crujiente del coco. Suele servirse con salsa tártara o mango y arroz. Es un imperdible en Cozumel para quienes aman los mariscos con giros locales.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cozumel",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://i.ytimg.com/vi/vQsHqyvsdrc/maxresdefault.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-s/0d/a1/c3/3b/filete-de-pescado-empanizado.jpg",
-        "https://cdn-ilddihb.nitrocdn.com/MgqZCGPEMHvMRLsisMUCAIMWvgGMxqaj/assets/images/optimized/rev-b5e5469/www.goya.com/wp-content/uploads/2023/10/fish-filets-in-coconut-sauce1-240x240.jpg",
-        "https://i.ytimg.com/vi/fXTVnZ5VBnA/mqdefault.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-s/0c/1f/04/2b/fried-hog-fish.jpg",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2285088890453181939"
-      ]
-    },
-    {
-      "nombre": "Caracol en arroz amarillo",
-      "descripcion": "Guiso típico de Cozumel preparado con carne de caracol gigante (caracol de mar) picada, cocinada con arroz al azafrán o achiote, elote tierno y hojas de chaya (verdura local). Es un platillo sustancioso que refleja la mezcla de productos del mar con ingredientes mayas (la chaya) y españoles (el azafrán) en la gastronomía regional.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cozumel",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://www.zampatelmundo.com/wp-content/uploads/2021/12/Arroz-con-caracoles.jpeg",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpPkU-_VRG7S147iYYE2dv3GgFuvkZ-visbmff42LSebR5ry_aSD0qNF4M1WXDjBcIHAQFAvstywZPVoy4c0niIfU9METUZQN-7BUIllYowTeYFsql24-nTxmvFIjuuvIff1kB9iKsTXGJ/s1600/IMG_20170823_153949_421.jpg",
-        "https://imag.bonviveur.com/arroz-con-caracoles.jpg",
-        "https://programadestinosmexico.com/wp-content/uploads/2023/08/GASTRONOMIA-COZUMEL-scaled.jpg",
-        "http://cocinaaldia.com/wp-content/uploads/2016/06/Arroz.frito_.jpg",
-        "https://lacocinademiinfancia.wordpress.com/wp-content/uploads/2012/08/100_7997.jpg"
-      ]
-    },
-    {
-      "nombre": "Papadzules",
-      "descripcion": "Platillo tradicional yucateco presente en la isla: tortillas de maíz rellenas de huevo duro picado, bañadas en una salsa de pepita de calabaza y epazote, y adornadas con salsa de tomate. Aunque originarios de Yucatán, se encuentran en fondas de Cozumel como muestra de la herencia culinaria peninsular. De sabor suave y textura cremosa, suelen gustar a niños y adultos por igual.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cozumel",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://www.cozumel4you.com/wp-content/uploads/2021/02/Papadzules-Picture.jpg",
-        "https://assets.epicurious.com/photos/5a9069dde723de6ef7a3e11c/16:9/w_6640,h_3734,c_limit/PAPADZULES-06022017.jpg",
-        "https://www.miabacalar.com/_next/image?url=https%3A%2F%2Fmiahotelsandresorts.nyc3.digitaloceanspaces.com%2Fmedia%2F6c9eaab507915276d6ba31431ebfd535.webp&w=3840&q=75",
-        "https://programadestinosmexico.com/wp-content/uploads/2023/08/Papadzules.jpg",
-        "https://tacoguy.com.au/wp-content/uploads/2021/04/Papadzules-main-e1619161029267.jpg",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10155987846730871"
-      ]
-    },
-    {
-      "nombre": "Frutas de mar a la parrilla",
-      "descripcion": "En Cozumel es muy común disfrutar parrilladas de mariscos frescos: langosta, camarones, caracol, pescado, calamar, asados al carbón con mantequilla y ajo. Muchos restaurantes locales ofrecen estas parrilladas mixtas acompañadas de tortillas y diversas salsas. Probar una langosta caribeña a la orilla del mar es una experiencia gastronómica muy representativa de la isla.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cozumel",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=407316081095608",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=187118845975530&get_thumbnail=1",
-        "https://www.tiktok.com/api/img/?itemId=7229696800746245382&location=0&aid=1988",
-        "https://hips.hearstapps.com/hmg-prod/images/grilled-peaches1-1660432139.jpg?crop=0.505xw:1.00xh;0.248xw,0&resize=640:*",
-        "https://i.ytimg.com/vi/GD8HUGN-8RY/hqdefault.jpg",
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3518618473760995650"
-      ]
-    },
-    {
-      "nombre": "Tacos de cochinita en puesto",
-      "descripcion": "Aunque la cochinita pibil es yucateca, Cozumel la ha hecho suya en la escena callejera. En las mañanas, varios puestos en el centro venden tacos de cochinita servidos en tortillas recién salidas del comal, con su cebollita morada y salsa de habanero. Son económicos y llenos de sabor. Para los locales, es tradición desayunar estos tacos los fines de semana; los visitantes no deberían perder la oportunidad de hacerlo también.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cozumel",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3612129452285760006",
-        "https://cozumelmycozumel.com/wp-content/uploads/2025/06/445bc-tacos.jpg?w=940",
-        "https://s3-media0.fl.yelpcdn.com/bphoto/QeFHgUlRf4ivZzXQLA_vJA/348s.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-s/1b/6a/35/15/los-famosos-tacos-de.jpg",
-        "https://images.squarespace-cdn.com/content/v1/5a95f6d54611a0f9ec0a7f5e/711c4953-d18a-495f-8a1c-1433d4b1afb0/Mi+taco+yucateco+1.jpg",
-        "https://shoreexcursioneer.com/imgs/cozumel_local_food_flavors_and_colors_excursion_551-12.jpg"
-      ]
-    },
-    {
-      "nombre": "Kondesa",
-      "especialidad": "Fusión local gourmet",
-      "descripcion": "Restaurante estilizado en un jardín al aire libre en San Miguel de Cozumel. Su cocina es mexicana fusión con ingredientes locales: ceviches creativos (prueba el de mango y habanero), tacos de pescado león (especie invasora convertida en manjar) y platos como el tamal de langosta. Ambiente romántico con música en vivo suave; excelente para una cena relajada degustando cocina cozumeleña contemporánea.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cozumel",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://www.kondesacozumel.com/wp-content/uploads/2023/06/Kondesa32.jpg",
-        "https://www.kondesacozumel.com/wp-content/uploads/2023/06/KONDESAEVENTO3.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/cf/bb/96/our-palapa.jpg?w=900&h=500&s=1",
-        "https://resizer.otstatic.com/v3/photos/29671796-1?width=1280&height=720&webp=true",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/8b/c6/01/kondesas-garden.jpg?w=900&h=500&s=1",
-        "https://www.kondesacozumel.com/wp-content/uploads/2023/06/Kondesa40.jpg"
-      ]
-    },
-    {
-      "nombre": "Guido’s",
-      "especialidad": "Ítalo-mexicana y mariscos",
-      "descripcion": "Un clásico de Cozumel desde 1978, ubicado frente al mar. Aunque de inspiración italiana (famoso por su lasaña y pan de ajo al horno de leña), incorpora mariscos locales en sus pastas y pizzas. También ofrece carpaccios de pescado fresco y filetes de pescado al estilo mediterráneo. Su patio trasero con jardín es encantador. Ideal para cenar mariscos con un giro internacional.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cozumel",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/7a/ae/d5/jardin.jpg?w=900&h=500&s=1",
-        "https://media-cdn.tripadvisor.com/media/photo-s/02/75/a5/6f/filename-dscn0837-jpg.jpg",
-        "https://s3-media0.fl.yelpcdn.com/bphoto/zWEp7BWzU7ulB2VJMt0_vQ/348s.jpg",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1397668728201721",
-        "https://guidoscozumel.com/wp-content/uploads/2018/09/7-min.jpg",
-        "https://guidos-boutique-san-miguel-de.hoteles-en-cozumel.com/data/Images/OriginalPhoto/4519/451920/451920780/image-cozumel-guidos-boutique-hotel-1.JPEG"
-      ]
-    },
-    {
-      "nombre": "Mercado Municipal de Cozumel (Mercado Benito Juárez)",
-      "especialidad": "Comida casera económica",
-      "descripcion": "Para una experiencia verdaderamente local, este mercado en el centro tiene fondas y puestos donde cocineras isleñas sirven platillos del día. Desde tacos de guisado, empanadas de cazón, hasta almuerzos corrientes con sopa y guiso (como frijol con puerco los lunes). Un puesto destacado vende agua de coco fresca y cócteles de frutas. Aquí se puede comer muy barato y sabroso, rodeado del día a día de Cozumel.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cozumel",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://media-cdn.tripadvisor.com/media/photo-s/07/b8/59/8e/mercado-municipal.jpg",
-        "https://cozumelconnection.com/wp-content/uploads/2025/06/plaza.webp",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2731235223856791",
-        "https://www.tinyfootstepstravel.com/wp-content/uploads/2025/02/insidemercadomunicipalcozumel-1024x683.jpg",
-        "https://img1.wsimg.com/isteam/ip/9a57a68c-d479-4a47-981e-b4e2160285c9/9d09be3c-1cf5-45b0-b38a-38b8691eecbd.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/ca/0c/25/caption.jpg?w=500&h=500&s=1"
-      ]
-    },
-    {
-      "nombre": "Buccanos at Night",
-      "especialidad": "Mariscos y cortes con vista al mar",
-      "descripcion": "Restaurante de cena ubicado en el norte de la isla (Club de Playa Buccanos, que de noche funciona como restaurante). Ofrece una experiencia más exclusiva: platillos de mar y tierra con presentación gourmet, como camarones en salsa de coco-curry, filete miñón con salsa de chile poblano, y pulpo a la parrilla. La iluminación crea una atmósfera romántica, y la vista al mar bajo las estrellas complementa la velada. Recomendado para una ocasión especial.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Cozumel",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://i0.wp.com/www.thecozumelsun.com/wp-content/uploads/2020/01/buccanos-2020-1024x717.jpg?resize=678%2C475&ssl=1",
-        "https://static.wixstatic.com/media/39776a_003d5e04ec954fdf96b87e4ed89b76b6~mv2.jpg/v1/fill/w_640,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/39776a_003d5e04ec954fdf96b87e4ed89b76b6~mv2.jpg",
-        "https://static.wixstatic.com/media/39776a_b022e4b2739a420db87475eb3c222976~mv2.png/v1/fill/w_320,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/39776a_b022e4b2739a420db87475eb3c222976~mv2.png",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/78/48/95/sunset-at-buccanos.jpg?w=900&h=500&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/55/a8/b9/caption.jpg?w=1200&h=1200&s=1",
-        "https://travelswithtam.com/wp-content/uploads/2017/11/IMG_2707.jpg"
-      ]
-    },
-    {
       "nombre": "Punta Sur Eco Beach Park",
       "descripcion": "Reserva natural más grande de Cozumel con playas vírgenes, faro Celarain con panorama espectacular, museo de navegación, cocodrilos en Laguna Colombia.",
       "intensidad": {
@@ -1517,7 +879,7 @@
       "accesibilidad": "media",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico",
+        "👌 Súper relajado - cero esfuerzo físico",
         "📅 Reservación anticipada recomendada"
       ],
       "links_utiles": [
@@ -1559,7 +921,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [
         {
@@ -1595,7 +957,7 @@
       "accesibilidad": "media",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [],
       "destino": "Cozumel",
@@ -1620,7 +982,7 @@
       "accesibilidad": "media",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico",
+        "👌 Súper relajado - cero esfuerzo físico",
         "☀️ Protector solar obligatorio - sol caribeño fuerte",
         "⛵ Transporte en lancha/barco incluido"
       ],
@@ -1835,7 +1197,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico",
+        "👌 Súper relajado - cero esfuerzo físico",
         "🧊 Agua fría (22-25°C) - wetsuit opcional pero ayuda",
         "🕐 Día completo (6-8 horas)",
         "📅 Reservación anticipada recomendada"
@@ -1920,7 +1282,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [],
       "destino": "Playa del Carmen",
@@ -1947,7 +1309,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [
         {
@@ -2005,7 +1367,7 @@
       "accesibilidad": "media",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico",
+        "👌 Súper relajado - cero esfuerzo físico",
         "🕐 Medio día (3-4 horas)"
       ],
       "links_utiles": [],
@@ -2031,7 +1393,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico",
+        "👌 Súper relajado - cero esfuerzo físico",
         "☀️ Protector solar obligatorio - sol caribeño fuerte"
       ],
       "links_utiles": [],
@@ -2057,7 +1419,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [],
       "destino": "Playa del Carmen",
@@ -2109,7 +1471,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [],
       "destino": "Playa del Carmen",
@@ -2121,237 +1483,6 @@
         "https://cdn.sanity.io/images/atvntylo/production/31b54f0a675013374f08678acaed27259090ae15-800x600.jpg?w=1920&q=65&fit=clip&auto=format",
         "https://assets.simpleviewinc.com/simpleview/image/upload/crm/quintanaroo/Ok60-b763055e5056a36_b7630873-5056-a36a-0841fba02306b90c.jpg",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/5c/64/03/photo0jpg.jpg?w=500&h=500&s=1"
-      ]
-    },
-    {
-      "nombre": "Sopa de lima",
-      "descripcion": "Caldo claro de pavo o pollo aromatizado con jugo de lima agria, especias y hierbas (orégano, cilantro). Se sirve con tiras de tortilla frita y trozos de lima. Originaria de Yucatán, es popular en la región como entrada ligera y refrescante, a pesar de ser sopa caliente. En Playa del Carmen muchos restaurantes locales la ofrecen, perfecta para probar sabores locales sin picante.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Playa del Carmen",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://eatyourworld.com/wp-content/uploads/2023/07/sopa-de-lima-high-res.jpg",
-        "https://blog.amigofoods.com/wp-content/uploads/2025/03/mexican-lime-soup-720x720.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-s/18/18/97/96/sopa-de-lima.jpg",
-        "https://www.spiciefoodie.com/blogimages/2015/04/SopaDeLima_LimeSoup01.jpg",
-        "https://www.seriouseats.com/thmb/9lylUmOSkIlUH1_hNa6zTmenGl4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__05__20160505-sopa-de-lima-22-a78c408efb60416d8b6e36b45e3977fa.jpg",
-        "http://rivieramayablog.com/wp-content/uploads/2016/08/sopa_lima.jpg"
-      ]
-    },
-    {
-      "nombre": "Tacos al Pastor",
-      "descripcion": "Si bien son originarios del centro de México, en Playa se han vuelto infaltables y han adoptado su estilo. Cerdo adobado en achiote y especias, asado en trompo (como shawarma) y servido en tortillas pequeñas con piña, cilantro y cebolla. Son el antojito nocturno por excelencia; puestos como El Fogón o Don Sirloin se llenan de gente cenando estos taquitos después de un día de playa. Baratos, sabrosos y parte de la experiencia local.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Playa del Carmen",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://i.redd.it/48jtwf9l3qb41.jpg",
-        "https://images.squarespace-cdn.com/content/v1/570d3048f699bb1e46683c68/1618421967281-12XAN0WS29DN62NHZEJN/Maya_Luxe_Magazine_Villa_Rentals_Riviera_Maya_Playa_del_Carmen_Best_Tacos_6.jpg",
-        "https://www.venturists.net/wp-content/uploads/2017/12/fogons-tacos-al-pastor.jpeg.webp",
-        "https://i0.wp.com/samurai-gourmet.com/wp-content/uploads/2020/07/img_5794.jpg?resize=750%2C749&ssl=1",
-        "https://media-cdn.tripadvisor.com/media/photo-s/12/1a/88/19/tacos-al-pastor-with.jpg",
-        "https://i0.wp.com/samurai-gourmet.com/wp-content/uploads/2020/07/img_5795.jpg?resize=750%2C754&ssl=1"
-      ]
-    },
-    {
-      "nombre": "Mariscos estilo Riviera Maya",
-      "descripcion": "En Playa se encuentra gran variedad de mariscos preparados al estilo regional: ceviche mixto (pescado, pulpo, camarón) fresco, cócteles de camarón estilo campechano, aguachiles (camarón crudo marinado en chile y limón) para los paladares que aguantan picante, pescados enteros fritos o a la talla (adobados) servidos con tortillas. Dada la ubicación costera, probar un plato de mariscos frescos con vista al mar es obligatorio para quienes gustan del seafood.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Playa del Carmen",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://www.tiktok.com/api/img/?itemId=7455736131989130501&location=0&aid=1988",
-        "https://www.tiktok.com/api/img/?itemId=7294424951610674438&location=0&aid=1988",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/99/43/b7/fresh-product.jpg",
-        "https://www.tiktok.com/api/img/?itemId=7492149916643396869&location=0&aid=1988",
-        "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/e3/ee/1f/el-oasis-mariscos-playa.jpg",
-        "https://www.tiktok.com/api/img/?itemId=7347845848694410502&location=0&aid=1988"
-      ]
-    },
-    {
-      "nombre": "Helado de coco y Marquesitas",
-      "descripcion": "Bajo el calor caribeño, nada mejor que un helado artesanal de coco, vendido en carritos o paleterías tradicionales de la 5ta Avenida. El coco es un sabor favorito entre locales, a veces servido directamente en medio coco congelado. Y en las noches, las marquesitas (ya descritas) se vuelven el postre predilecto: ver al marchante preparar la crepa crujiente y oír lo crocante al darle la primera mordida con queso de bola y Nutella, es una delicia que identifica las calles de Playa del Carmen.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Playa del Carmen",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://www.tiktok.com/api/img/?itemId=7298160096956124422&location=0&aid=1988",
-        "https://www.tiktok.com/api/img/?itemId=7539350148070100242&location=0&aid=1988",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=264552706094784",
-        "https://www.tiktok.com/api/img/?itemId=7301492660995444010&location=0&aid=1988",
-        "https://www.tiktok.com/api/img/?itemId=7492953889486966022&location=0&aid=1988",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1146200820671076"
-      ]
-    },
-    {
-      "nombre": "El Fogón",
-      "especialidad": "Taquería local",
-      "descripcion": "Mencionado antes, es el lugar top para tacos al pastor en Playa. Popular entre locales por sus precios y sabor auténtico, y ya famoso entre turistas por recomendaciones. Además de tacos, ofrecen parrilladas completas, quesos fundidos y aguas frescas. Ideal para cenar rico sin gastar mucho.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Playa del Carmen",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/fb/41/d2/el-fogon.jpg?w=900&h=500&s=1",
-        "https://everythingplayadelcarmen.com/wp-content/uploads/2024/01/el-fogon-scaled.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/e7/f9/8e/photo0jpg.jpg?w=900&h=500&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/98/25/4b/locale.jpg?w=900&h=-1&s=1",
-        "https://i0.wp.com/samurai-gourmet.com/wp-content/uploads/2020/07/img_5794.jpg?resize=750%2C749&ssl=1",
-        "https://www.findingbeautifultruth.com/wp-content/uploads/2023/06/el-fogon-playa-del-carmen-4.jpg"
-      ]
-    },
-    {
-      "nombre": "La Cueva del Chango",
-      "especialidad": "Desayunos y almuerzos mexicanos",
-      "descripcion": "También ya mencionado, su ambiente selvático y menú mexicano lo hacen imperdible. Recomendado para probar desayunos regionales: chilaquiles verdes con pollo, huevos motuleños o enfrijoladas, acompañados de jugo de chaya o un buen café. Para almuerzo, sus ensaladas con frutos tropicales y mariscos son refrescantes. Un sitio pintoresco que refleja la vibra bohemia de Playa.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 1,
-        "atletico": 0
-      },
-      "accesibilidad": "media",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Playa del Carmen",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/18/87/60/entrada-principal-durante.jpg?w=900&h=500&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/46/7f/ff/la-cueva-del-chango-esta.jpg?w=500&h=-1&s=1",
-        "https://www.playadelcarmen.com/blog/wp-content/uploads/la-cueva-del-chango-1-of-1-16.jpg",
-        "https://www.playadelcarmen.com/blog/wp-content/uploads/la-cueva-del-chango-1-of-1-13.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-s/0d/8e/79/f1/photo9jpg.jpg",
-        "https://www.playadelcarmen.com/blog/wp-content/uploads/la-cueva-del-chango-1-of-1-30.jpg"
-      ]
-    },
-    {
-      "nombre": "Alux Restaurante",
-      "especialidad": "Cocina mexicana en caverna",
-      "descripcion": "Una experiencia culinaria singular: cenar dentro de una cueva/cenote seco natural. Alux es un restaurante-bar establecido en una gruta con estalactitas iluminadas. Su menú es de alta cocina mexicana e internacional (filete con salsa de huitlacoche, langosta al tequila, etc.). Aunque los precios son elevados, el ambiente vale la pena. Recomendado para parejas o celebraciones. Se encuentra un poco apartado del centro, pero ofrece servicio de taxi al final.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 1,
-        "atletico": 0
-      },
-      "accesibilidad": "media",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico",
-        "🧊 Agua fría (22-25°C) - wetsuit opcional pero ayuda"
-      ],
-      "links_utiles": [],
-      "destino": "Playa del Carmen",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://www.aluxrestaurant.com/recursos/gal2024/front.jpg",
-        "https://resizer.otstatic.com/v3/photos/68387674-4?width=1280&height=720&webp=true",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/66/e6/73/alux-restaurante.jpg?w=900&h=500&s=1",
-        "https://www.aluxrestaurant.com/recursos/inspiracion.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/d2/f5/bf/restaurant-lounge.jpg?w=500&h=-1&s=1",
-        "https://www.aluxrestaurant.com/recursos/gal2024/01.jpg"
-      ]
-    },
-    {
-      "nombre": "Los Aguachiles",
-      "especialidad": "Marisquería casual",
-      "descripcion": "Famoso por sus tacos y tostadas de mariscos con un giro moderno. Su platillo insignia son los tacos \"El Gobernador\" (camarón con queso en tortilla de harina) y una variedad de aguachiles desde el tradicional hasta versiones fusión (como de maracuyá). Ambiente relajado, ideal para almuerzo post-playa con una cerveza fría. Una probadita de la costa en cada plato.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Playa del Carmen",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/84/96/08/los-aguachiles-sucursal.jpg?w=900&h=-1&s=1",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/83/52/be/20201113-134612-largejpg.jpg?w=900&h=500&s=1",
-        "https://s3-media0.fl.yelpcdn.com/bphoto/QtIcgyGq4pRkQGL7qc1RKg/348s.jpg",
-        "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=518475507056436",
-        "https://media-cdn.tripadvisor.com/media/photo-s/10/f0/8a/9f/ilos-aguachiles-playacar.jpg",
-        "https://wheretogo.com.mx/images/restaurantes/aguachiles/gallery/thumbs/aguachiles-1.jpg"
-      ]
-    },
-    {
-      "nombre": "Chez Céline",
-      "especialidad": "Panadería y café francés",
-      "descripcion": "Como Playa es cosmopolita, vale la pena mencionar esta panadería francesa en plena Quinta Avenida. Es adorada para desayunos y brunch por sus quiches, croque-monsieur, crepas dulces y por supuesto su repostería fresca (pain au chocolat, eclairs, tartaletas de fruta). Turistas y residentes europeos la frecuentan. Aunque no es \"local mexicano\", se ha vuelto parte del paisaje gastronómico local y es genial para variar después de muchos tacos.",
-      "intensidad": {
-        "fisica": 0,
-        "vertigo": 0,
-        "atletico": 0
-      },
-      "accesibilidad": "alta",
-      "links": [],
-      "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
-      ],
-      "links_utiles": [],
-      "destino": "Playa del Carmen",
-      "categoria": "gastronomía_local",
-      "image_urls": [
-        "https://www.samsonwaters.com/wp-content/uploads/2020/06/chezceline.jpg",
-        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/51/e3/ea/combo-campesino-plus.jpg?w=900&h=500&s=1",
-        "https://www.chezceline.com.mx/images/main.jpg",
-        "https://media-cdn.tripadvisor.com/media/photo-s/15/87/7a/a3/photo5jpg.jpg",
-        "https://mindtrip.ai/cdn-cgi/image/format=webp,w=720/https://tcdn.mindtrip.ai/images/353590/10knmph.png",
-        "https://i.ytimg.com/vi/UKf4vM8HvV0/maxresdefault.jpg"
       ]
     },
     {
@@ -2406,7 +1537,7 @@
       "accesibilidad": "alta",
       "links": [],
       "requisitos_especificos": [
-        "👌 Puedes ir en pijama - cero esfuerzo físico"
+        "👌 Súper relajado - cero esfuerzo físico"
       ],
       "links_utiles": [],
       "destino": "Playa del Carmen",
